@@ -5,7 +5,7 @@ weight = 4
 
 +++
 
-{{% reveal-titlepage figure="/softdev2-resources/images/kanban/kanbanstudents.png" %}}
+{{% reveal-titlepage figure="/dsacapstone-resources/images/kanban/kanbanstudents.png" %}}
 
 ---
 
@@ -19,7 +19,7 @@ weight = 4
 
 {{% fragment %}} Teams build a Kanban board filled with **Kanban cards** and set up a **work flow** limit.
 
-{{< figure src="/softdev2-resources/images/kanban/kanbansimpleboard.jpg" width=600 >}}
+{{< figure src="/dsacapstone-resources/images/kanban/kanbansimpleboard.jpg" width=600 >}}
 {{% /fragment %}}
 
 ---
@@ -47,7 +47,7 @@ weight = 4
 
 ### Kanban work flow
 
-{{< figure src="/softdev2-resources/images/kanban/kanbanworkflow.gif" width=600 >}}
+{{< figure src="/dsacapstone-resources/images/kanban/kanbanworkflow.gif" width=600 >}}
 
 Work flow: cards moving from left to right
 
