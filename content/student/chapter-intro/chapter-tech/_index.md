@@ -4,7 +4,7 @@ outputs = ["Reveal"]
 weight = 02 # chapter number
 +++
 
-{{% reveal-titlepage figure="/softdev2-resources/images/technology.jpg" %}}
+{{% reveal-titlepage figure="/dsacapstone-resources/images/technology.jpg" %}}
 
 ---
 
