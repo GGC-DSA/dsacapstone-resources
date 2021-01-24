@@ -5,6 +5,6 @@ outputs = ["Reveal"]
 weight = 03
 +++
 
-{{% reveal-titlepage figure="/softdev2-resources/images/version-control/githubsocial.jpg" %}}
+{{% reveal-titlepage figure="/dsacapstone-resources/images/version-control/githubsocial.jpg" %}}
 
 ---
