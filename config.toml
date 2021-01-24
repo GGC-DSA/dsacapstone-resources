@@ -30,7 +30,7 @@ isHTML = true
     version = "0.1.1"
 
     # Settings special to the textbook
-    author = "Anca Doloc-Mihu"
+    author = "Anca Doloc-Mihu and Cengiz Gunay"
     course = "ITEC 4230 Data Science and Analytics Project"
 
     # Documentation repository section
