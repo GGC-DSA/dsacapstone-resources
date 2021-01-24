@@ -5,7 +5,7 @@ weight = 3
 
 +++
 
-{{% reveal-titlepage figure="/softdev2-resources/images/scrum/scrumrugby.jpg" %}}
+{{% reveal-titlepage figure="/dsacapstone-resources/images/scrum/scrumrugby.jpg" %}}
 
 ---
 
@@ -17,7 +17,7 @@ weight = 3
 
 {{% fragment %}} <p align='left'> * Takeuchi and Nonaka compare high-performing, cross-functional teams to the scrum formation used by Rugby teams. </p> {{% /fragment %}} 
 
-{{< figure src="/softdev2-resources/images/scrum/scrumrugby.jpg" width=400 >}}
+{{< figure src="/dsacapstone-resources/images/scrum/scrumrugby.jpg" width=400 >}}
 
 ---
 
@@ -28,7 +28,7 @@ weight = 3
 {{% fragment %}} <p align='left'> * It requires complete team work, hard work, and strength. That meaning translates to software development </p> {{% /fragment %}}
 
 
-{{< figure src="/softdev2-resources/images/scrum/scrumrugby.jpg" width=400 >}}
+{{< figure src="/dsacapstone-resources/images/scrum/scrumrugby.jpg" width=400 >}}
 
 See original article from [Scrum Alliance](https://www.scrumalliance.org/why-scrum) 
 
@@ -40,7 +40,7 @@ See original article from [Scrum Alliance](https://www.scrumalliance.org/why-scr
 
 {{% fragment %}} **Scrum is the most popular agile framework.**
 
-{{< figure src="/softdev2-resources/images/agilestatus-methods.png" width="600" >}}
+{{< figure src="/dsacapstone-resources/images/agilestatus-methods.png" width="600" >}}
 {{% /fragment %}}
 
 ---
@@ -106,7 +106,7 @@ Scrum Team includes three roles: **Scrum Master, Product Owner, and Development 
 
 {{% fragment %}} * During each sprint, the team completes one or more increments of the project. Each completed increment must be fully tested and fully approved by the end of the sprint (potentially deliverable).{{% /fragment %}}
 
- {{< figure src="/softdev2-resources/images/scrum/sprint.png" width=500 >}}
+ {{< figure src="/dsacapstone-resources/images/scrum/sprint.png" width=500 >}}
  
  
 ---
@@ -150,8 +150,8 @@ Scrum Team includes three roles: **Scrum Master, Product Owner, and Development 
 **Burndown Chart** Sprint burndowns are a graphical way of showing how much work is remaining in the sprint, typically in terms of task hours.
 As the work progresses, the amount of work remaining should steadily decrease and should trend toward being complete on the last day of the sprint. 
 
-{{% fragment %}} {{< figure src="/softdev2-resources/images/scrum/sprintburndownchart.png" height=270 >}} 
- {{< figure src="/softdev2-resources/images/scrum/sprintburndownchartstudents.png" height=270 >}} {{% /fragment %}}
+{{% fragment %}} {{< figure src="/dsacapstone-resources/images/scrum/sprintburndownchart.png" height=270 >}} 
+ {{< figure src="/dsacapstone-resources/images/scrum/sprintburndownchartstudents.png" height=270 >}} {{% /fragment %}}
 
 ---
 
@@ -200,5 +200,5 @@ Bonus scrum meeting [Sillicon Valey]:
 
 ### Now ... Scrum
 
-{{< figure src="/softdev2-resources/images/scrum/wescrum.png" width=700 >}}
+{{< figure src="/dsacapstone-resources/images/scrum/wescrum.png" width=700 >}}
 
