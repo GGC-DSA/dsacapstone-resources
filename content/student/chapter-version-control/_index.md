@@ -5,7 +5,7 @@ outputs = ["Reveal"]
 weight = 04
 +++
 
-{{% reveal-titlepage figure="/softdev2-resources/images/comics/version-control-comic-return-to-zero.png" %}}
+{{% reveal-titlepage figure="/dsacapstone-resources/images/comics/version-control-comic-return-to-zero.png" %}}
 
 ---
 
@@ -38,35 +38,35 @@ Advantages:
 
 ### Teamwork: No control? Overwrite chaos!
 
-{{< figure src="/softdev2-resources/images/version-control/version-control-why-cm-0.png" >}}
+{{< figure src="/dsacapstone-resources/images/version-control/version-control-why-cm-0.png" >}}
 
 ---
 
 ### Teamwork: Locking
 
-{{< figure src="/softdev2-resources/images/version-control/version-control-why-cm-1.png" >}}
+{{< figure src="/dsacapstone-resources/images/version-control/version-control-why-cm-1.png" >}}
 
 ---
 
 ### Teamwork: Merging
 
-{{< figure src="/softdev2-resources/images/version-control/version-control-why-cm-2.png" >}}
+{{< figure src="/dsacapstone-resources/images/version-control/version-control-why-cm-2.png" >}}
 
 ---
 
 ### Merging example
 
-{{< figure src="/softdev2-resources/images/version-control/version-control-merge-example2.png" >}}
+{{< figure src="/dsacapstone-resources/images/version-control/version-control-merge-example2.png" >}}
 
 ---
 
 ### Each commit increments version
 
-[{{< figure src="/softdev2-resources/images/version-control/version-control-basic-numbering.png" height="400px">}}](http://betterexplained.com/articles/a-visual-guide-to-version-control/)
+[{{< figure src="/dsacapstone-resources/images/version-control/version-control-basic-numbering.png" height="400px">}}](http://betterexplained.com/articles/a-visual-guide-to-version-control/)
 
 ---
 
-<section data-background-image="/softdev2-resources/images/version-control/github-mainpage.png"
+<section data-background-image="/dsacapstone-resources/images/version-control/github-mainpage.png"
     data-background-opacity=0.5>
 
 ### Github for version control
@@ -75,11 +75,11 @@ Advantages:
 
 ---
 
-[{{< figure src="/softdev2-resources/images/version-control/github-linguist.png" height="100%">}}](http://git-scm.com/documentation)
+[{{< figure src="/dsacapstone-resources/images/version-control/github-linguist.png" height="100%">}}](http://git-scm.com/documentation)
 
 ---
 
-<section data-background-image="/softdev2-resources/images/version-control/github-linguist-log.png"
+<section data-background-image="/dsacapstone-resources/images/version-control/github-linguist-log.png"
     data-background-position="center"
     data-background-size="auto 100%"
     data-background-opacity=1>
@@ -88,7 +88,7 @@ Advantages:
 
 ---
 
-<section data-background-image="/softdev2-resources/images/version-control/github-linguist-network.png"
+<section data-background-image="/dsacapstone-resources/images/version-control/github-linguist-network.png"
     data-background-position="center"
     data-background-size="auto 100%"
     data-background-opacity=1>
@@ -97,7 +97,7 @@ Advantages:
 
 ---
 
-<section data-background-image="/softdev2-resources/images/version-control/github-linguist-contrib.png"
+<section data-background-image="/dsacapstone-resources/images/version-control/github-linguist-contrib.png"
     data-background-position="center"
     data-background-size="auto 100%"
     data-background-opacity=1>
@@ -119,7 +119,7 @@ Common usage scenario:
 
 ---
 
-<slide data-background-image="/softdev2-resources/images/version-control/sherlock.jpg"
+<slide data-background-image="/dsacapstone-resources/images/version-control/sherlock.jpg"
     data-background-position="right"
     data-background-size="auto 50%"
     data-background-opacity=0.5>
