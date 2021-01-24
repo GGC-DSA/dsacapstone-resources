@@ -3,17 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ggc-dsa.github.io/dsacapstone-resources/instructor/exams/midterm/</loc>
-    <lastmod>2020-12-20T15:26:15+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ggc-dsa.github.io/dsacapstone-resources/student/chapter-project-design/requirements-phase/</loc>
-    <lastmod>2020-12-20T15:26:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ggc-dsa.github.io/dsacapstone-resources/instructor/schedule/</loc>
     <lastmod>2020-12-20T15:26:15+00:00</lastmod>
   </url>
   
@@ -31,17 +21,7 @@
   </url>
   
   <url>
-    <loc>https://ggc-dsa.github.io/dsacapstone-resources/instructor/exams/final/</loc>
-    <lastmod>2020-12-20T15:26:15+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ggc-dsa.github.io/dsacapstone-resources/student/</loc>
-    <lastmod>2020-12-20T15:26:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ggc-dsa.github.io/dsacapstone-resources/instructor/syllabus/</loc>
     <lastmod>2020-12-20T15:26:15+00:00</lastmod>
   </url>
   
@@ -66,16 +46,6 @@
   </url>
   
   <url>
-    <loc>https://ggc-dsa.github.io/dsacapstone-resources/instructor/gradebook/</loc>
-    <lastmod>2020-12-20T15:26:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ggc-dsa.github.io/dsacapstone-resources/instructor/</loc>
-    <lastmod>2020-12-20T15:26:15+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ggc-dsa.github.io/dsacapstone-resources/student/chapter-project-design/last-stretch-phase/</loc>
     <lastmod>2020-12-20T15:26:15+00:00</lastmod>
   </url>
@@ -97,21 +67,11 @@
   </url>
   
   <url>
-    <loc>https://ggc-dsa.github.io/dsacapstone-resources/instructor/exams/</loc>
-    <lastmod>2020-12-20T15:26:15+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ggc-dsa.github.io/dsacapstone-resources/student/chapter-agiledevelopment/chapter-kanban/</loc>
   </url>
   
   <url>
     <loc>https://ggc-dsa.github.io/dsacapstone-resources/student/chapter-version-control/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ggc-dsa.github.io/dsacapstone-resources/instructor/assignments/</loc>
-    <lastmod>2020-12-20T15:26:15+00:00</lastmod>
   </url>
   
   <url>
@@ -125,81 +85,6 @@
   
   <url>
     <loc>https://ggc-dsa.github.io/dsacapstone-resources/student/chapter-software-protection/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ggc-dsa.github.io/dsacapstone-resources/instructor/assignments/assgn1a/</loc>
-    <lastmod>2020-12-20T15:26:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ggc-dsa.github.io/dsacapstone-resources/instructor/assignments/assgn1b/</loc>
-    <lastmod>2020-12-20T15:26:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ggc-dsa.github.io/dsacapstone-resources/instructor/assignments/assgn1c/</loc>
-    <lastmod>2020-12-20T15:26:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ggc-dsa.github.io/dsacapstone-resources/instructor/assignments/assgn2a/</loc>
-    <lastmod>2020-12-20T15:26:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ggc-dsa.github.io/dsacapstone-resources/instructor/assignments/assgn2b/</loc>
-    <lastmod>2020-12-20T15:26:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ggc-dsa.github.io/dsacapstone-resources/instructor/assignments/assgn3a/</loc>
-    <lastmod>2020-12-20T15:26:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ggc-dsa.github.io/dsacapstone-resources/instructor/assignments/assgn3b/</loc>
-    <lastmod>2020-12-20T15:26:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ggc-dsa.github.io/dsacapstone-resources/instructor/assignments/assgn4a/</loc>
-    <lastmod>2020-12-20T15:26:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ggc-dsa.github.io/dsacapstone-resources/instructor/assignments/assgn4b/</loc>
-    <lastmod>2020-12-20T15:26:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ggc-dsa.github.io/dsacapstone-resources/instructor/assignments/assgn5a/</loc>
-    <lastmod>2020-12-20T15:26:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ggc-dsa.github.io/dsacapstone-resources/instructor/assignments/assgn5b/</loc>
-    <lastmod>2020-12-20T15:26:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ggc-dsa.github.io/dsacapstone-resources/instructor/assignments/assgn6a/</loc>
-    <lastmod>2020-12-20T15:26:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ggc-dsa.github.io/dsacapstone-resources/instructor/assignments/assgn6b/</loc>
-    <lastmod>2020-12-20T15:26:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ggc-dsa.github.io/dsacapstone-resources/instructor/assignments/assgn7/</loc>
-    <lastmod>2020-12-20T15:26:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ggc-dsa.github.io/dsacapstone-resources/instructor/assignments/presentations/</loc>
-    <lastmod>2020-12-20T15:26:15+00:00</lastmod>
   </url>
   
   <url>
