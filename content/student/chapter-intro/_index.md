@@ -1,25 +1,22 @@
 +++
-title = "Re-introduction to Software Engineering"
+title = "Introduction to Data Science and Analytics (DSA)"
 outputs = ["Reveal"]
 weight = 01 # chapter number
 +++
 
-{{< reveal-titlepage figure="{{.Site.BaseURL}}/images/comics/dilbert-plan-software.png" 
-    link="https://dilbert.com/strip/1998-11-10" >}}
+{{< reveal-titlepage figure="/dsacapstone-resources/images/comics/dilbert-dataanalytics.jpg" 
+    link="https://maassist.com/may-2018-update/data-science-dilbert/" >}}
   
 ---
 
 ## Welcome
 
-- What's better than to start the semester with a **quiz**?
-
 {{% fragment %}}
 Logistics heads-up:
 
-- Using Reddit/Piazza for forum discussion and Q&A support
-- Sections 1 & 2 are separate, but follow same content
+- Using Piazza for forum discussion and Q&A support
 - Using Discord and Github organizations with previous members
-- Everything online this semester, will meet on live video on Discord
+- Everything online this semester, will meet on live video on Zoom
 {{% /fragment %}}
 
 {{% fragment %}}
@@ -35,28 +32,23 @@ Meaning:
 
 ### Meet your instructor
 
-Instructor: [Dr. Cengiz Gunay](http://www.ggc.edu/about-ggc/directory/cengiz-gunay) 
+Instructor: [Anca Doloc-Mihu](http://www.ggc.edu/about-ggc/directory/anca-doloc-mihu) 
 
-[Soft-Eng-Practicum Github Organization](https://soft-eng-practicum.github.io/)
+Email: adolocmihu@ggc.edu
 
-Email: cgunay@ggc.edu
+Office: Virtual and W-2208 (by appointment) 
 
-Office: Virtual and W-2117 (by [appointment](https://cgunay.youcanbook.me/)) 
-
-Phone: 678-951-9621 (also GroupMe)
+Phone: 678-459-8704 
 
 ---
 
-### About the instructor: Dr Cengiz Gunay
+### About the instructor: Dr. Anca Doloc-Mihu
 
-- Self-taught programmer
-- In elementary school, started programming with an [Atari 800XL](http://www.atarimuseum.com/computers/8BITS/XL/800xl/800xl.htm) <img src="/softdev2-resources/images/Atari_800XL_System.jpg" width="100px" style="float: right;">
-- In high school, won programming competition with word puzzle game
-- In college ('96), published PC video game called [“Legends of Istanbul”](http://www.stillpsycho.net/\%C4\%B0stanbul_Efsaneleri_\%28Legends_of_Istanbul\%29) <img src="/softdev2-resources/images/ist-efs-menu.jpg" width="100px" style="float: right;">
-- In 2003, got a PhD in Computer Science on neural networks
-- 2004–15, worked as [post-doctoral fellow](http://www.biology.emory.edu/research/Prinz/Cengiz/) at Emory Univ. on simulating models of biological neurons and large-scale biological data mining (e.g., SQL, neural nets, genetic algos)
-- 2012–15, Visiting Faculty teaching at Emory Univ., Math & CS Dept.
-- Fall 2015–present, IT faculty at GGC with Soft Dev focus and also helped start a Data Science and Analytics major
+- Dual major in Mathematics and Computer Science 
+- In 2007, got a PhD in Computer Science on Information Retrieval
+- 2007–17, worked as [post-doctoral fellow](http://www.biology.emory.edu/research/Calabrese/Anca/index.htm) at Emory Univ. on simulating models of biological neurons and large-scale biological data mining (e.g., SQL, neural nets, genetic algos)
+- 2013–17, Visiting Faculty teaching at Emory Univ., Math & CS Dept.
+- Fall 2017–present, IT faculty at GGC with Soft. Dev. focus and also helped start a Data Science and Analytics major
 
 ---
 
@@ -75,11 +67,10 @@ Also quickly introduce yourself now in class!
 
 ### What's happening?
 
-Welcome Soft Dev 1 students
+Welcome Advanced Analytics students
 
 - Projects, working with external clients (mostly GGC faculty/students)
 - 3 phases of project work, **peer review** in each with dire consequences...
-- 2 **take-home exams** about project work and many **pop-up quizzes** for textbook/slides knowledge
 - Few small assignments
 - Few team presentations
 - Individual presentations for team role, article, and/or software tool
@@ -97,7 +88,7 @@ Throughout semester I'll let you research topics so we all learn more about opti
 {{% fragment %}}
 Topics will be posted later, but will include:
 
-- **Tools:** Web frameworks (MEAN, .Net, JSP/JSF, PHP, …), Frontend frameworks (jQuery, Bootstrap, …), IDEs, Version control software (git, mercurial, …) and online portals (Github, Bitbucket, Gitlab, …), Project tracking tools (JIRA, Trello, Pivotal Tracker, Rally, Version One, …), Database engines (MySQL, PostGreSQL, MS SQL Server, Oracle, …)
+- **Tools:** Frontend frameworks (jQuery, Bootstrap, …), Project tracking tools (JIRA, Trello, Pivotal Tracker, Rally, Version One, …), Database engines (MySQL, PostGreSQL, MS SQL Server, Oracle, …)
 - **Articles:** Influential articles, novel technologies, arguments, career topics, etc.
 {{% /fragment %}}
 
@@ -113,6 +104,6 @@ Topics will be posted later, but will include:
 {{% fragment %}}
 Time to work on:
 
-1. Register for Discord, Github, and Reddit
-1. Respond to resume on Reddit
+1. Register for Discord, Github, and Piazza
+1. Respond to resume on Piazza
 {{% /fragment %}}
