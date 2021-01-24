@@ -4,7 +4,7 @@ outputs = ["Reveal"]
 weight = 03
 +++
 
-{{% reveal-titlepage figure="/softdev2-resources/images/requirements/requirements.png" %}}
+{{% reveal-titlepage figure="/dsacapstone-resources/images/requirements/requirements.png" %}}
 
 Some slides courtesy of Joan Smith, Eugene Agichstein, and the Internets.
 
@@ -21,7 +21,7 @@ Some slides courtesy of Joan Smith, Eugene Agichstein, and the Internets.
 {{% fragment %}} <p align='left'> * It may be as complex as a 500 pages of description </p> {{% /fragment %}}
 
 
-{{< figure src="/softdev2-resources/images/requirements/requirements2.png" width=400 >}}
+{{< figure src="/dsacapstone-resources/images/requirements/requirements2.png" width=400 >}}
 
 ---
 
@@ -195,7 +195,7 @@ Example: Process requirements, implementation requirements, delivery requirement
 Example: Interoperability, legislation, ethics 
 </p>
 
-{{% fragment %}} {{< figure src="/softdev2-resources/images/requirements/nonfctrequirements.png" width=400 >}} {{% /fragment %}}
+{{% fragment %}} {{< figure src="/dsacapstone-resources/images/requirements/nonfctrequirements.png" width=400 >}} {{% /fragment %}}
 
 ---
 
@@ -203,13 +203,13 @@ Example: Interoperability, legislation, ethics
 
 **It is important to be able to test/verify/check non-functional requirements**
 
-{{% fragment %}} {{< figure src="/softdev2-resources/images/requirements/nonfctreqtest.png" width=500 >}} {{% /fragment %}}
+{{% fragment %}} {{< figure src="/dsacapstone-resources/images/requirements/nonfctreqtest.png" width=500 >}} {{% /fragment %}}
     
 ---
 
 ### Requirement engineering
 
-{{< figure src="/softdev2-resources/images/requirements/reqengineering.png" width=700 >}}
+{{< figure src="/dsacapstone-resources/images/requirements/reqengineering.png" width=700 >}}
 
 ---
 
@@ -271,20 +271,20 @@ and more
 
 ### Requirements as user stories
 
-{{< figure src="/softdev2-resources/images/comics/requirementsuserstory.jpg" width=700 >}}
+{{< figure src="/dsacapstone-resources/images/comics/requirementsuserstory.jpg" width=700 >}}
 
 ---
 
 ### From requirements to user stories
 
-{{< figure src="/softdev2-resources/images/requirements/reqtousecase.png" width=700 >}}
+{{< figure src="/dsacapstone-resources/images/requirements/reqtousecase.png" width=700 >}}
 
 ---
 
 
 ### Use-case Diagram
 
-{{< figure src="/softdev2-resources/images/requirements/usecase.png" width=700 >}}
+{{< figure src="/dsacapstone-resources/images/requirements/usecase.png" width=700 >}}
 
 ---
 
