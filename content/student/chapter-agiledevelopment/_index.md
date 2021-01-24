@@ -4,13 +4,13 @@ outputs = ["Reveal"]
 weight = 02 # chapter number
 +++
 
-{{% reveal-titlepage figure="/softdev2-resources/images/comics/dilbert-agile-programming.png" 
+{{% reveal-titlepage figure="/dsacapstone-resources/images/comics/dilbert-agile-programming.png" 
     link="https://dilbert.com/strip/2007-11-26"%}}
 
 ---
 ### What is AGILITY? 
 
-{{< figure src="/softdev2-resources/images/agile/agility.jpg" height="400" >}}
+{{< figure src="/dsacapstone-resources/images/agile/agility.jpg" height="400" >}}
 
 What does it mean to be AGILE?
 
@@ -53,7 +53,7 @@ What does it mean to be AGILE?
 
  [The 14th annual STATE of AGILE Report, 2020](https://stateofagile.com/)
 
- {{< figure src="/softdev2-resources/images/agile/agilestatus-methods.png" width="600" >}}
+ {{< figure src="/dsacapstone-resources/images/agile/agilestatus-methods.png" width="600" >}}
 
 ---
 
@@ -61,7 +61,7 @@ What does it mean to be AGILE?
 
  [The 14th annual STATE of AGILE Report, 2020](https://stateofagile.com/)
 
- {{< figure src="/softdev2-resources/images/agile/agilestatus-toptechniques.png" width="600" >}}
+ {{< figure src="/dsacapstone-resources/images/agile/agilestatus-toptechniques.png" width="600" >}}
  
 ---
 
@@ -69,7 +69,7 @@ What does it mean to be AGILE?
 
  [The 14th annual STATE of AGILE Report, 2020](https://stateofagile.com/)
 
- {{< figure src="/softdev2-resources/images/agile/agilestatus-tool.png" width="600" >}}
+ {{< figure src="/dsacapstone-resources/images/agile/agilestatus-tool.png" width="600" >}}
  
 ---
 
@@ -77,7 +77,7 @@ What does it mean to be AGILE?
 
  [The 14th annual STATE of AGILE Report, 2020](https://stateofagile.com/)
 
- {{< figure src="/softdev2-resources/images/agile/agilestatus-practices.png" width="600" >}}
+ {{< figure src="/dsacapstone-resources/images/agile/agilestatus-practices.png" width="600" >}}
  
 ---
 
@@ -85,7 +85,7 @@ What does it mean to be AGILE?
 
  [The 14th annual STATE of AGILE Report, 2020](https://stateofagile.com/)
 
- {{< figure src="/softdev2-resources/images/agile/agilestatus-success.png" width="600" >}}
+ {{< figure src="/dsacapstone-resources/images/agile/agilestatus-success.png" width="600" >}}
  
 ---
 
