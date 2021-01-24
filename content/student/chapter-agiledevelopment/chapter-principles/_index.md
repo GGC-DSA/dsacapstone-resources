@@ -5,13 +5,13 @@ weight = 2
 
 +++
 
-{{% reveal-titlepage figure="/softdev2-resources/images/agile/agileprinciples.png" %}}
+{{% reveal-titlepage figure="/dsacapstone-resources/images/agile/agileprinciples.png" %}}
     
 ---
 
 ### What is "AGILITY"?
 
-{{< figure src="/softdev2-resources/images/agile/agility.jpg" height="300" >}}
+{{< figure src="/dsacapstone-resources/images/agile/agility.jpg" height="300" >}}
 
 What does it mean to be AGILE?
 
@@ -147,7 +147,7 @@ At regular intervals, the team reflects on how to become more effective, then tu
 
 ### Agile means
 
-{{< figure src="/softdev2-resources/images/teamwork.jpg" >}}
+{{< figure src="/dsacapstone-resources/images/teamwork.jpg" >}}
 
 ---
 
@@ -179,7 +179,7 @@ There are many Agile process models proposed by various groups...
 
 Originally proposed by Kent Beck, and used in industry often in a hybrid format
 
-{{< figure src="/softdev2-resources/images/agile/extremeprogramming.png" width=500 >}}
+{{< figure src="/dsacapstone-resources/images/agile/extremeprogramming.png" width=500 >}}
 
 ---
 
@@ -227,14 +227,14 @@ Originally proposed by Kent Beck, and used in industry often in a hybrid format
 * Various Techniques with differing process maps
 * In reality few people strictly adhere to one method
 
-{{< figure src="/softdev2-resources/images/agile/agileflavors.jpg" width=500 >}}
+{{< figure src="/dsacapstone-resources/images/agile/agileflavors.jpg" width=500 >}}
 
 ---
 
 ### Our Agile Flavor
 
 * **Extreme Programming** with **Refactoring** adapted to class schedule
-* Tool - **Jira**
+* Tool - **MS Project Management**
 * **Pair Programming** highly encouraged
 * 3 iterations with **Velocity chart** and **Burdown chart** as restrospectives after each iteration
 * **Version Control (Git)** is a MUST
