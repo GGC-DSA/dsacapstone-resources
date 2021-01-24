@@ -4,7 +4,7 @@ outputs = ["Reveal"]
 weight = 05
 +++
 
-{{% reveal-titlepage figure="/softdev2-resources/images/comics/dilbert-pm.png" %}}
+{{% reveal-titlepage figure="/dsacapstone-resources/images/comics/dilbert-pm.png" %}}
 
 ---
 ### Project Management (PM)
@@ -13,7 +13,7 @@ What is Project Management?
 
 {{% fragment %}} **Project management** is the process of matching a project's goals, tasks, and resources to accomplish a goal considering also constrains like limited time, money, and resources (people and tools) with which to accomplish the goal. {{% /fragment %}}
 
-{{% fragment %}} {{< figure src="/softdev2-resources/images/pm/projectpm.png" width=600 >}} {{% /fragment %}}
+{{% fragment %}} {{< figure src="/dsacapstone-resources/images/pm/projectpm.png" width=600 >}} {{% /fragment %}}
 
 ---
 ### Project Step 1: Defining the goals of the project
@@ -30,7 +30,7 @@ iteration and improvement on a goal which has been sufficiently accomplished.
 
 Each goal or sub-set of goals should be matched to the tasks required to accomplish them. Team should agree on the tasks that will define the success of each goal.
 
-{{< figure src="/softdev2-resources/images/pm/goaltasks.png" height=400 >}}
+{{< figure src="/dsacapstone-resources/images/pm/goaltasks.png" height=400 >}}
 
 ---
 ### Project Step 3: Determine and verify resource requirements
@@ -58,7 +58,7 @@ DO NOT:
 {{% fragment %}} Risk management is important as it helps the team accomplish the project with as little trouble as possible, and could be very complex.{{% /fragment %}}
 
 {{% fragment %}} One simple idea is to identify the risks for each task and build a backup plan to help keep you on schedule.
-{{< figure src="/softdev2-resources/images/pm/taskrisk.png" height=150 >}}
+{{< figure src="/dsacapstone-resources/images/pm/taskrisk.png" height=150 >}}
 {{% /fragment %}}
 
 ---
@@ -69,7 +69,7 @@ DO NOT:
 
 Develop a schedule that includes the tasks, people responsible for these tasks, and a timeline.
 
-{{< figure src="/softdev2-resources/images/pm/gantt-schedule.png" height=300 >}}
+{{< figure src="/dsacapstone-resources/images/pm/gantt-schedule.png" height=300 >}}
 
 ---
 ### Project Step 6: Execute the schedule
@@ -89,7 +89,7 @@ After the goals have been achieved, it is good practice to evaluate the performa
 {{% fragment %}} The velocity chart is a visual representation of the project’s progress. {{% /fragment %}}
 
 {{% fragment %}} Managers use velocity to measure the rate at which an Agile development team delivers value to a business.
-{{< figure src="/softdev2-resources/images/scrum/sprintburndownchartstudents.png" height=200 >}}
+{{< figure src="/dsacapstone-resources/images/scrum/sprintburndownchartstudents.png" height=200 >}}
 {{% /fragment %}}
 
 ---
@@ -99,7 +99,7 @@ After the goals have been achieved, it is good practice to evaluate the performa
 
 {{% fragment %}} * To help the project management process and the team build up a schedule and keep track of the tasks, we will be using a project management tool called [Jira](https://www.atlassian.com/software/jira) 
 
-{{< figure src="/softdev2-resources/images/pm/jira.png" height=300 >}}
+{{< figure src="/dsacapstone-resources/images/pm/jira.png" height=300 >}}
 {{% /fragment %}}
 
 ---
@@ -111,7 +111,7 @@ After the goals have been achieved, it is good practice to evaluate the performa
 
 {{% fragment %}} <p align='left'> * Takeuchi and Nonaka compare high-performing, cross-functional teams to the scrum formation used by Rugby teams. </p> {{% /fragment %}} 
 
-{{< figure src="/softdev2-resources/images/scrum/scrumrugby.jpg" height=400 >}}
+{{< figure src="/dsacapstone-resources/images/scrum/scrumrugby.jpg" height=400 >}}
 
 ---
 
@@ -122,7 +122,7 @@ After the goals have been achieved, it is good practice to evaluate the performa
 {{% fragment %}} <p align='left'> * It requires complete team work, hard work, and strength. That meaning translates to software development </p> {{% /fragment %}}
 
 
-{{< figure src="/softdev2-resources/images/scrum/scrumrugby.jpg" width=400 >}}
+{{< figure src="/dsacapstone-resources/images/scrum/scrumrugby.jpg" width=400 >}}
 
 See original article from [Scrum Alliance](https://www.scrumalliance.org/why-scrum) 
 
@@ -134,7 +134,7 @@ See original article from [Scrum Alliance](https://www.scrumalliance.org/why-scr
 
 {{% fragment %}} **Scrum is the most popular agile framework.**
 
-{{< figure src="/softdev2-resources/images/agilestatus-methods.png" width="600" >}}
+{{< figure src="/dsacapstone-resources/images/agilestatus-methods.png" width="600" >}}
 {{% /fragment %}}
 
 ---
@@ -200,7 +200,7 @@ Scrum Team includes three roles: **Scrum Master, Product Owner, and Development 
 
 {{% fragment %}} * During each sprint, the team completes one or more increments of the project. Each completed increment must be fully tested and fully approved by the end of the sprint (potentially deliverable).{{% /fragment %}}
 
- {{< figure src="/softdev2-resources/images/scrum/sprint.png" width=500 >}}
+ {{< figure src="/dsacapstone-resources/images/scrum/sprint.png" width=500 >}}
  
  
 ---
@@ -242,8 +242,8 @@ Scrum Team includes three roles: **Scrum Master, Product Owner, and Development 
 **Burndown Chart** Sprint burndowns are a graphical way of showing how much work is remaining in the sprint, typically in terms of task hours.
 As the work progresses, the amount of work remaining should steadily decrease and should trend toward being complete on the last day of the sprint. 
 
-{{% fragment %}} {{< figure src="/softdev2-resources/images/scrum/sprintburndownchart.png" width=300 >}} {{% /fragment %}}
-{{% fragment %}} {{< figure src="/softdev2-resources/images/scrum/sprintburndownchartstudents.png" width=300 >}} {{% /fragment %}}
+{{% fragment %}} {{< figure src="/dsacapstone-resources/images/scrum/sprintburndownchart.png" width=300 >}} {{% /fragment %}}
+{{% fragment %}} {{< figure src="/dsacapstone-resources/images/scrum/sprintburndownchartstudents.png" width=300 >}} {{% /fragment %}}
 
 ---
 
@@ -292,5 +292,5 @@ Bonus scrum meeting [Sillicon Valey]:
 
 ### Now ... Scrum
 
-{{< figure src="/softdev2-resources/images/scrum/wescrum.png" width=700 >}}
+{{< figure src="/dsacapstone-resources/images/scrum/wescrum.png" width=700 >}}
 
