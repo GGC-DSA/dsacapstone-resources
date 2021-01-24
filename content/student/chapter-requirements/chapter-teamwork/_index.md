@@ -146,7 +146,7 @@ Our [TEAM] highest priority is to satisfy the customer through early and continu
 {{% fragment %}} **Client Meeting** is a business meeting during which the TEAM presents a version of the product to the client for feedback and input.
 {{% /fragment %}}
 
-{{< figure src="/softdev2-resources/images/requirements/clientmeeting.jpg" width=500 >}}
+{{< figure src="/dsacapstone-resources/images/requirements/clientmeeting.jpg" width=500 >}}
 
 ---
 
@@ -191,5 +191,5 @@ In our class settings, communication happens via several venues set up by the in
 
 ### Scrum
 
-{{< figure src="/dsacapstone-resources/images/scrum/wescrum.png" width=550 >}} {{< figure src="/softdev2-resources/images/scrum/teamsscrums.JPG" width=550 >}}
+{{< figure src="/dsacapstone-resources/images/scrum/wescrum.png" width=550 >}} {{< figure src="/dsacapstone-resources/images/scrum/teamsscrums.JPG" width=550 >}}
 
