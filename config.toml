@@ -2,7 +2,7 @@ baseURL = "https://ggc-dsa.github.io/dsacapstone-resources/"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 
-title = "Intermediate Agile Software Development"
+title = "Data Science and Analytics Project Resources"
 theme = ["techdoc", "reveal-hugo"]
 googleAnalytics = ""     # Different for Hugo's internal template?
 
@@ -30,8 +30,8 @@ isHTML = true
     version = "0.1.1"
 
     # Settings special to the textbook
-    author = "Anca Doloc-Mihu and Cengiz Günay"
-    course = "ITEC 3870 Software Development II"
+    author = "Anca Doloc-Mihu"
+    course = "ITEC 4230 Data Science and Analytics Project"
 
     # Documentation repository section
     # documentation repository (set edit link to documentation repository)
