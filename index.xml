@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Intermediate Agile Software Development</title>
+    <title>Home on Data Science and Analytics Project Resources</title>
     <link>https://ggc-dsa.github.io/dsacapstone-resources/</link>
-    <description>Recent content in Home on Intermediate Agile Software Development</description>
+    <description>Recent content in Home on Data Science and Analytics Project Resources</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 19 Oct 2017 15:26:15 +0000</lastBuildDate><atom:link href="https://ggc-dsa.github.io/dsacapstone-resources/index.xml" rel="self" type="application/rss+xml" />
