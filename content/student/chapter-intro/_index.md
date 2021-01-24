@@ -4,7 +4,7 @@ outputs = ["Reveal"]
 weight = 01 # chapter number
 +++
 
-{{< reveal-titlepage figure="{{ .Site.BaseURL }}/images/comics/dilbert-plan-software.png" 
+{{< reveal-titlepage figure="{{.Site.BaseURL}}/images/comics/dilbert-plan-software.png" 
     link="https://dilbert.com/strip/1998-11-10" >}}
   
 ---
