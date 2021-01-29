@@ -18,7 +18,9 @@ author = "Anca Doloc-Mihu"
  
 {{% fragment %}} <p align='left'> * Examples from history include cave paintings, Egyptian hieroglyphs, Greek geometry, and Leonardo da Vinci's revolutionary methods of technical drawing for engineering and scientific purposes. </p> {{% /fragment %}}
 
-{{% fragment %}} {{< figure src="/dsacapstone-resources/images/visualization/egypt-art.jpg" height=200 >}} {{< figure src="/dsacapstone-resources/images/visualization/da_vinci.jpg" width=200 >}} {{% /fragment %}}
+{{% fragment %}} {{< figure src="/dsacapstone-resources/images/visualization/caliboaia-cave.jpg" height=200 >}} 
+ {{< figure src="/dsacapstone-resources/images/visualization/egypt-art.jpg" height=200 >}} 
+ {{< figure src="/dsacapstone-resources/images/visualization/da_vinci.jpg" width=200 >}} {{% /fragment %}}
  
 ---
 
@@ -32,7 +34,7 @@ author = "Anca Doloc-Mihu"
 {{% fragment %}} It builds a mapping between the original data (usually numerical) and graphic elements (for example, lines or points in a chart) to show visually how the attributes of these elements vary according to the data. 
 {{% /fragment %}}
 
-{{% fragment %}} It is generally considered a branch of Descriptive Statistics, and because both design skills and statistical and computing skills are required to visualize effectively, it is argued by some authors that it is both an Art and a Science.{{% /fragment %}}
+{{% fragment %}} It is generally considered a branch of Descriptive Statistics, and it is argued by some authors that it is both an Art and a Science.{{% /fragment %}}
 
 {{% fragment %}} {{< figure src="/dsacapstone-resources/images/visualization/challenge.png" height=200 >}} {{% /fragment %}}
 
