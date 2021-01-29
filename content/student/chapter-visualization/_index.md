@@ -1,16 +1,14 @@
 +++
-title = "Requirements in Agile"
+title = "Visualization"
 outputs = ["Reveal"]
-weight = 03
+weight = 04
 +++
 
 {{% reveal-titlepage figure="/dsacapstone-resources/images/requirements/requirements.png" %}}
 
-Some slides courtesy of Joan Smith, Eugene Agichstein, and the Internets.
-
 ---
 
-## What is a Requirement? 
+## What is a Visualization? 
 
 {{% fragment %}} **Requirements are the descriptions of the services provided by a system and its operational constraints** {{% /fragment %}}
 
