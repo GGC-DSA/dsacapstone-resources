@@ -3,8 +3,8 @@ date: 2020-10-19T15:26:15Z
 lastmod: 2020-12-20T15:26:15Z 
 publishdate: 2019-11-23T15:26:15Z
 
-title: Last Stretch Phase: Dynamic Visualization
-description: Last Stretch Phase : Dynamic Visualization
+title: Final Phase - Dynamic Visualization
+description: Final Phase - Dynamic Visualization
 
 weight: 3
 ---
