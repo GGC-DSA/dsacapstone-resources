@@ -20,7 +20,8 @@ author = "Anca Doloc-Mihu"
 
 {{% fragment %}} {{< figure src="/dsacapstone-resources/images/visualization/coliboaia-cave.jpg" height=200 >}} 
  {{< figure src="/dsacapstone-resources/images/visualization/egypt-art.jpg" height=200 >}}
- {{< figure src="/dsacapstone-resources/images/visualization/da_vinci.jpg" width=200 >}} {{% /fragment %}}
+ {{< figure src="/dsacapstone-resources/images/visualization/da_vinci.jpg" width=200 >}} 
+ {{% /fragment %}}
  
 ---
 
