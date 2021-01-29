@@ -8,6 +8,7 @@ author = "Anca Doloc-Mihu"
 {{% reveal-titlepage figure="/dsacapstone-resources/images/visualization/vizs.png" %}}
 
 ---
+{{< slide class="side-by-side" >}}
 
 ## What is Visualization? 
 
@@ -31,7 +32,7 @@ author = "Anca Doloc-Mihu"
 {{% fragment %}} It builds a mapping between the original data (usually numerical) and graphic elements (for example, lines or points in a chart) to show visually how the attributes of these elements vary according to the data. 
 {{% /fragment %}}
 
-{{% fragment %}} Data visualization has its roots in the field of Statistics, so is generally considered a branch of Descriptive Statistics. However, because both design skills and statistical and computing skills are required to visualize effectively, it is argued by some authors that it is both an Art and a Science.{{% /fragment %}}
+{{% fragment %}} It is generally considered a branch of Descriptive Statistics, and because both design skills and statistical and computing skills are required to visualize effectively, it is argued by some authors that it is both an Art and a Science.{{% /fragment %}}
 
 {{% fragment %}} {{< figure src="/dsacapstone-resources/images/visualization/challenge.png" height=200 >}} {{% /fragment %}}
 
