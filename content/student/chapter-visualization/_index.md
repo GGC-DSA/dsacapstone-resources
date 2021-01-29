@@ -4,7 +4,7 @@ outputs = ["Reveal"]
 weight = 04
 +++
 
-{{% reveal-titlepage figure="/dsacapstone-resources/images/requirements/requirements.png" %}}
+{{% reveal-titlepage figure="/dsacapstone-resources/images/visualization/vizs.png" %}}
 
 ---
 
