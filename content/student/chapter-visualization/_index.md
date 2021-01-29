@@ -13,8 +13,6 @@ author = "Anca Doloc-Mihu"
 
 {{% fragment %}} **Visualization or visualisation is any technique for creating images, diagrams, or animations to communicate a message.** [Wikipedia](https://en.wikipedia.org/wiki/Visualization_(graphics)) {{% /fragment %}}
 
- 
-
 {{% fragment %}} <p align='left'> * Visualization through visual imagery has been an effective way to communicate both abstract and concrete ideas since the dawn of humanity.  </p> {{% /fragment %}}
  
 {{% fragment %}} <p align='left'> * Examples from history include cave paintings, Egyptian hieroglyphs, Greek geometry, and Leonardo da Vinci's revolutionary methods of technical drawing for engineering and scientific purposes. </p> {{% /fragment %}}
