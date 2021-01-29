@@ -1,7 +1,7 @@
 +++
 title = "Project Management with JIRA"
 outputs = ["Reveal"]
-weight = 05
+weight = 06
 +++
 
 {{% reveal-titlepage figure="/dsacapstone-resources/images/comics/dilbert-pm.png" %}}
