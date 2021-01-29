@@ -20,14 +20,14 @@ author = "Anca Doloc-Mihu"
 {{% fragment %}} <p align='left'> * Examples from history include cave paintings, Egyptian hieroglyphs, Greek geometry, and Leonardo da Vinci's revolutionary methods of technical drawing for engineering and scientific purposes. </p> {{% /fragment %}}
 
 {{% fragment %}} {{< figure src="/softdev2-resources/images/visualization/caliboaia-cave.jpg" height=200 >}} 
- {{< figure src="/softdev2-resources/images/visualization/egypt-art.jpg" height=200 >}} 
- {{< figure src="/dsacapstone-resources/images/visualization/da-vinci.jpg" width=200 >}} {{% /fragment %}}
+ {{< figure src="/softdev2-resources/images/visualization/egypt-art.jpg" height=200 >}} {{% /fragment %}}
  
 ---
 
 ### Why we need requirements?
 
 **Advantages of a complete set of documented requirements**
+{{< figure src="/dsacapstone-resources/images/visualization/da-vinci.jpg" width=200 >}} 
 
 {{% fragment %}} <p align='left'> * Ensures the user (not the developer) drives system functionalities </p> {{% /fragment %}}
 
