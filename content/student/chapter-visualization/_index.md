@@ -17,11 +17,12 @@ author = "Anca Doloc-Mihu"
 
 {{% fragment %}} <p align='left'> * Visualization through visual imagery has been an effective way to communicate both abstract and concrete ideas since the dawn of humanity.  </p> {{% /fragment %}}
  
-{{% fragment %}} <p align='left'> * Examples from history include cave paintings, Egyptian hieroglyphs, Greek geometry, and Leonardo da Vinci's revolutionary methods of technical drawing for engineering and scientific purposes. </p> 
-{{< figure src="/dsacapstone-resources/images/visualization/egypt-art.jpg" width=400 >}}
-{{% /fragment %}}
+{{% fragment %}} <p align='left'> * Examples from history include cave paintings, Egyptian hieroglyphs, Greek geometry, and Leonardo da Vinci's revolutionary methods of technical drawing for engineering and scientific purposes. </p> {{% /fragment %}}
 
-
+{{% fragment %}} {{< figure src="/softdev2-resources/images/visualization/caliboaia-cave.jpg" height=250 >}} 
+ {{< figure src="/softdev2-resources/images/visualization/egypt-art.jpg" height=250 >}} 
+ {{< figure src="/dsacapstone-resources/images/visualization/da-vinci.jpg" width=250 >}} {{% /fragment %}}
+ 
 ---
 
 ### Why we need requirements?
