@@ -25,11 +25,13 @@ author = "Anca Doloc-Mihu"
 
 **Data visualization (often abbreviated data viz) is an interdisciplinary field that deals with the graphic representation of data.**
 
-{{% fragment %}} It is a particularly **efficient way of communicating when the data is numerous** as for example a Time Series. {{% /fragment %}}
+{{% fragment %}} It is an **efficient way of communicating when the data is numerous** as for example a Time Series. 
+{{% /fragment %}}
 
-{{% fragment %}} Data visualization can be considered as a mapping between the original data (usually numerical) and graphic elements (for example, lines or points in a chart). The mapping determines how the attributes of these elements vary according to the data. {{% /fragment %}}
+{{% fragment %}} It builds a mapping between the original data (usually numerical) and graphic elements (for example, lines or points in a chart) to show visually how the attributes of these elements vary according to the data. 
+{{% /fragment %}}
 
-{{% fragment %}} Data visualization has its roots in the field of Statistics and is therefore generally considered a branch of Descriptive Statistics. However, because both design skills and statistical and computing skills are required to visualize effectively, it is argued by some authors that it is both an Art and a Science.{{% /fragment %}}
+{{% fragment %}} Data visualization has its roots in the field of Statistics, so is generally considered a branch of Descriptive Statistics. However, because both design skills and statistical and computing skills are required to visualize effectively, it is argued by some authors that it is both an Art and a Science.{{% /fragment %}}
 
 {{% fragment %}} {{< figure src="/dsacapstone-resources/images/visualization/challenge.png" height=200 >}} {{% /fragment %}}
 
