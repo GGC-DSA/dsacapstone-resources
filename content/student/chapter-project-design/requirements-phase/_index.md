@@ -3,8 +3,8 @@ date: 2020-10-19T15:26:15Z
 lastmod: 2020-12-20T15:26:15Z 
 publishdate: 2019-11-23T15:26:15Z
 
-title: Requirements Phase
-description: Requirements Phase
+title: Planning and Data Collection Phase
+description: Requirements Phase includes understanding the project, select project roles, starting a repo fo project, build project charter/plan, select technologies, data collection and first draft of hyphotesis. 
 
 weight: 1
 ---
