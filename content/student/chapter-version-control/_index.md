@@ -2,7 +2,7 @@
 title = "Version Control"
 outputs = ["Reveal"]
 # chapter number
-weight = 04
+weight = 05
 +++
 
 {{% reveal-titlepage figure="/dsacapstone-resources/images/comics/version-control-comic-return-to-zero.png" %}}
