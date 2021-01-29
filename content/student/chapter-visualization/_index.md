@@ -2,24 +2,25 @@
 title = "Visualization"
 outputs = ["Reveal"]
 weight = 04
+author = "Anca Doloc-Mihu"
 +++
 
 {{% reveal-titlepage figure="/dsacapstone-resources/images/visualization/vizs.png" %}}
 
 ---
 
-## What is a Visualization? 
+## What is Visualization? 
 
-{{% fragment %}} **Requirements are the descriptions of the services provided by a system and its operational constraints** {{% /fragment %}}
+{{% fragment %}} **Visualization or visualisation is any technique for creating images, diagrams, or animations to communicate a message.** [Wikipedia](https://en.wikipedia.org/wiki/Visualization_(graphics)) {{% /fragment %}}
 
-{{% fragment %}} <p align='left'> * It is about <b>WHAT</b> not HOW </p> {{% /fragment %}}
  
-{{% fragment %}} <p align='left'> * It varies greatly. It may range from a high level abstract statement to a detailed mathematical specification </p> {{% /fragment %}}
 
-{{% fragment %}} <p align='left'> * It may be as complex as a 500 pages of description </p> {{% /fragment %}}
+{{% fragment %}} <p align='left'> * Visualization through visual imagery has been an effective way to communicate both abstract and concrete ideas since the dawn of humanity.  </p> {{% /fragment %}}
+ 
+{{% fragment %}} <p align='left'> * Examples from history include cave paintings, Egyptian hieroglyphs, Greek geometry, and Leonardo da Vinci's revolutionary methods of technical drawing for engineering and scientific purposes. </p> 
+{{< figure src="/dsacapstone-resources/images/visualization/egypt-art.jpg" width=400 >}}
+{{% /fragment %}}
 
-
-{{< figure src="/dsacapstone-resources/images/requirements/requirements2.png" width=400 >}}
 
 ---
 
