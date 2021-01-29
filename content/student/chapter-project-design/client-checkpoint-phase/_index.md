@@ -3,8 +3,8 @@ date: 2020-10-19T15:26:15Z
 lastmod: 2020-12-20T15:26:15Z 
 publishdate: 2019-11-23T15:26:15Z
 
-title: Client Checkpoint Phase
-description: Client Checkpoint Phase
+title: Data Cleaning and Hypothesis Formulation Phase
+description:  Data Cleaning and Hypothesis Formulation Phase
 
 weight: 2
 ---
