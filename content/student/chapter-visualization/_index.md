@@ -41,7 +41,7 @@ author = "Anca Doloc-Mihu"
 
 ### Why is Visualization so important?
 
-<p align='left'> <b> “At their best, graphics are instruments for reasoning about quantitative information. Often the most effective way to describe, explore, and summarize a set of numbers is to look at pictures of those numbers.” </b> Edward R. Tufte, Ph.D., Professor Emeritus, Yale University,</p> Author of [The Visual Display of Quantitative Information](https://www.edwardtufte.com/tufte/books_vdqi) 
+{{% fragment %}}<p align='left'> <b> “At their best, graphics are instruments for reasoning about quantitative information. Often the most effective way to describe, explore, and summarize a set of numbers is to look at pictures of those numbers.” </b> Edward R. Tufte, Ph.D., Professor Emeritus, Yale University,</p> Author of [The Visual Display of Quantitative Information](https://www.edwardtufte.com/tufte/books_vdqi) {{% /fragment %}}
 
 {{% fragment %}} <p align='left'> <b> “A picture is worth a thousand words" </b> is an English language adage meaning that complex and sometimes multiple ideas can be conveyed by a single still image, which conveys its meaning or essence more effectively than a mere verbal description.</p> [Wikipedia](https://en.wikipedia.org/wiki/A_picture_is_worth_a_thousand_words){{% /fragment %}}
 
