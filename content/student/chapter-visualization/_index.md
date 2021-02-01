@@ -18,10 +18,7 @@ author = "Anca Doloc-Mihu"
  
 {{% fragment %}} <p align='left'> * Examples from history include cave paintings, Egyptian hieroglyphs, Greek geometry, and Leonardo da Vinci's revolutionary methods of technical drawing for engineering and scientific purposes. </p> {{% /fragment %}}
 
-{{% fragment %}} {{< figure src="/dsacapstone-resources/images/visualization/coliboaia-cave.jpg" height=200 >}} 
- {{< figure src="/dsacapstone-resources/images/visualization/egypt-art.jpg" height=200 >}}
- {{< figure src="/dsacapstone-resources/images/visualization/greekgeom.jpg" height=200 >}}
- {{< figure src="/dsacapstone-resources/images/visualization/da_vinci.jpg" width=200 >}} 
+{{% fragment %}} {{< figure src="/dsacapstone-resources/images/visualization/coliboaia-cave.jpg" height=200 >}}{{< figure src="/dsacapstone-resources/images/visualization/egypt-art.jpg" height=200 >}}{{< figure src="/dsacapstone-resources/images/visualization/greekgeom.jpg" height=200 >}}{{< figure src="/dsacapstone-resources/images/visualization/da_vinci.jpg" width=200 >}} 
  {{% /fragment %}}
  
 ---
@@ -46,14 +43,14 @@ author = "Anca Doloc-Mihu"
 
 <p align='left'> <b> “At their best, graphics are instruments for reasoning about quantitative information. Often the most effective way to describe, explore, and summarize a set of numbers is to look at pictures of those numbers.” </b></p>
 
-<p align='right'> Edward R. Tufte, Ph.D.
-Professor Emeritus, Yale University, 
-Author of [The Visual Display of Quantitative Information](https://www.edwardtufte.com/tufte/books_vdqi) </p>
+<p align='right'> Edward R. Tufte, Ph.D., Professor Emeritus, Yale University,</p> 
+Author of [The Visual Display of Quantitative Information](https://www.edwardtufte.com/tufte/books_vdqi) 
 
 
-<p align='left'> <b> “A picture is worth a thousand words" <b> is an English language adage meaning that complex and sometimes multiple ideas can be conveyed by a single still image, which conveys its meaning or essence more effectively than a mere verbal description.</p> [Wikipedia](https://en.wikipedia.org/wiki/A_picture_is_worth_a_thousand_words)
+<p align='left'> <b> “A picture is worth a thousand words" <b> is an English language adage meaning that complex and sometimes multiple ideas can be conveyed by a single still image, which conveys its meaning or essence more effectively than a mere verbal description.</p> 
+[Wikipedia](https://en.wikipedia.org/wiki/A_picture_is_worth_a_thousand_words)
 
-{{% fragment %}} {{< figure src="/dsacapstone-resources/images/visualization/NASA-CO2comaprison.jpg" height=200 >}} 
+{{% fragment %}} {{< figure src="/dsacapstone-resources/images/visualization/NASA-CO2comaprison.jpg" height=250 >}} 
 [NASA - Comparisons of Observed CO2 and Emission Changes](https://svs.gsfc.nasa.gov/13647#29873){{% /fragment %}}
 
 ---
