@@ -17,7 +17,7 @@ author = "Anca Doloc-Mihu"
 
 ---
 
-#### IDEs
+#### IDE(s)
 
 * Visual Studio, Eclipse, R Studio, 
 * Jupyter Studio, SQL Developer, 
@@ -62,31 +62,31 @@ Simpler, less powerful, cloud options available
 - R, Python, Matlab, Mathematica,
 - SAP Analytics, 
 - Microsoft Paint
-- notebooks: Jupyter, Observable.js  
+- Notebooks: Jupyter, Observable.js  
 
 ---
 
 #### Algorithms for advanced data exploration
 
-- Sorting algs – merge sort, quicksort, divide and conquer
-- Search algoithms: linear, binary search 
+- Sorting algorithms – merge sort, quicksort, divide and conquer
+- Search algorithms: linear, binary search 
 - Clustering: K means, nearest neighbor, 
 - Classification: linear regression, supervised/non supervised learning, Naïve Bayes, SVM, extremely random forests, binary classif, 
-- Pre-processing algs: MapReduce, Principal Component Analysis 
-- Prediction algs: 
-- Time series: ARIMA
+- Pre-processing algorithms: MapReduce, Principal Component Analysis (PCA)
+- Prediction algs: random forest, generalized linear model (GLM), regression algorithms - linear, logistic, 
+- Time series: ARIMA - Autoregressive Integrated Moving Average, and versions - [11 Time Series Forecasting Methods in Python cheat sheet](https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/)
 - Neural networks (NN): Deep NN, perceptron, ANN 
 
 ---
 
 #### Tools for dynamic visualizations 
 
-- D3.js, 
-- sea born, 
+- D3.js, Chart.js, Chartlist.js, Highcharts, FusionCharts, 
+- sea born, Google Charts
 - Python – interactive methods – plotly, 
 - R – interactive methods – plotly,
-- Tableau, 
-- PowerBI
+- Tableau, PowerBI
+- for maps: Leaflet, OpenLayers, Kartograph, CARTO
 
 ---
 
