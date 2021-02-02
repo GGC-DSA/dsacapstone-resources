@@ -45,7 +45,7 @@ Simpler, less powerful, cloud options available
 
 - MongoDB - industry leader
 - Firebase (Google) - easy for mobile apps
-- Cassandra 
+- Cassandra - free and open-source, distributed, wide column store, NoSQL dbms for handling safely large data accross many servers
 - CouchDB - Good for highly distributed systems
 - Dynamo DB – a NoSQL database from AWS
 - TinyDB - a simple database with a clean API that just works without lots of configuration, works with Python 3.5+ and PyPy
@@ -71,21 +71,30 @@ Simpler, less powerful, cloud options available
 - Sorting algorithms – merge sort, quicksort, divide and conquer
 - Search algorithms: linear, binary search 
 - Clustering: K means, nearest neighbor, 
-- Classification: linear regression, supervised/non supervised learning, Naïve Bayes, SVM, extremely random forests, binary classif, 
+- Classification: linear regression, supervised/non supervised learning, Naïve Bayes, SVM, extremely random forests, binary classification, 
 - Pre-processing algorithms: MapReduce, Principal Component Analysis (PCA)
-- Prediction algs: random forest, generalized linear model (GLM), regression algorithms - linear, logistic, 
+- Prediction algorithms: random forest, generalized linear model (GLM), regression algorithms - linear, logistic, 
 - Time series: ARIMA - Autoregressive Integrated Moving Average, and versions - [11 Time Series Forecasting Methods in Python cheat sheet](https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/)
 - Neural networks (NN): Deep NN, perceptron, ANN 
+
+---
+#### Tools for visualizations 
+
+- Python libraries: matplotlib, Seaborn
+- R libraries: 
+- Matlab: scatterplot, plot, plot3
+- Excel
+- other...
 
 ---
 
 #### Tools for dynamic visualizations 
 
-- D3.js, Chart.js, Chartlist.js, Highcharts, FusionCharts, 
-- sea born, Google Charts
+- D3.js, Chart.js, Chartlist.js, Highcharts, FusionCharts, Timeline.js
+- Google Charts, dygraphs
 - Python – interactive methods – plotly, 
 - R – interactive methods – plotly,
-- Tableau, PowerBI
+- Tableau, PowerBI, Datawrapper, Raw, Infogram - paid but some free stuff available
 - for maps: Leaflet, OpenLayers, Kartograph, CARTO
 
 ---
