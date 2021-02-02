@@ -2,9 +2,91 @@
 title = "Technology Overview"
 outputs = ["Reveal"]
 weight = 02 # chapter number
+author = "Anca Doloc-Mihu"
 +++
 
 {{% reveal-titlepage figure="/dsacapstone-resources/images/technology.jpg" %}}
+
+---
+
+#### Tools for pre-processing data
+
+* R, Python, bash, Matlab, Mathematica
+* Excel, Google Sheets, 
+* Spark, Hadoop, MapReduce,
+
+---
+
+#### IDEs
+
+* Visual Studio, Eclipse, R Studio, 
+* Jupyter Studio, SQL Developer, 
+* Sublime, IntelliJ, Pycharm, Notebook++
+
+---
+
+#### SQL Databases
+
+1. SQLite – database in a single file, simplified
+1. MySQL/Oracle/PostGreSQL/MS SQL Server – legacy, centralized, powerful, requires server/ MariaDB/ SQL Developer
+1. Access
+
+{{% note %}}
+- SQL used to be standard but now one should ask if needed
+- SQLite is local, so no centralized data
+- need to run server
+{{% /note %}}
+
+---
+
+#### NoSQL databases
+
+Simpler, less powerful, cloud options available
+
+- MongoDB - industry leader
+- Firebase (Google) - easy for mobile apps
+- Cassandra 
+- CouchDB - Good for highly distributed systems
+- Dynamo DB – a NoSQL database from AWS
+- TinyDB - a simple database with a clean API that just works without lots of configuration, works with Python 3.5+ and PyPy
+
+{{% note %}}
+- Mongo and Firebase give small free allowance on cloud - get a database without running a server!
+{{% /note %}}
+
+---
+
+#### Data exploration tools
+
+- Tableau, PowerBI, Adobe Analytics, MicroStrategy, Google Analytics, Excel, 
+- R, Python, Matlab, Mathematica,
+- SAP Analytics, 
+- Microsoft Paint
+- notebooks: Jupyter, Observable.js  
+
+---
+
+#### Algorithms for advanced data exploration
+
+- Sorting algs – merge sort, quicksort, divide and conquer
+- Search algoithms: linear, binary search 
+- Clustering: K means, nearest neighbor, 
+- Classification: linear regression, supervised/non supervised learning, Naïve Bayes, SVM, extremely random forests, binary classif, 
+- Pre-processing algs: MapReduce, Principal Component Analysis 
+- Prediction algs: 
+- Time series: ARIMA
+- Neural networks (NN): Deep NN, perceptron, ANN 
+
+---
+
+#### Tools for dynamic visualizations 
+
+- D3.js, 
+- sea born, 
+- Python – interactive methods – plotly, 
+- R – interactive methods – plotly,
+- Tableau, 
+- PowerBI
 
 ---
 
@@ -60,34 +142,6 @@ Hybrid: cross-platform (Android, iOS, …)
 - Xamarin requires to learn another XML
 {{% /note %}}
 
----
-
-#### SQL Databases
-
-1. No database
-1. SQLite – database in a single file, simplified
-1. MySQL/Oracle/PostGreSQL/MS SQL Server – legacy, centralized, powerful, requires server
-
-{{% note %}}
-- SQL used to be standard but now one should ask if needed
-- SQLite is local, so no centralized data
-- need to run server
-{{% /note %}}
-
----
-
-#### NoSQL databases
-
-Simpler, less powerful, cloud options available
-
-- MongoDB - industry leader
-- Firebase (Google) - easy for mobile apps
-- Cassandra 
-- CouchDB - Good for highly distributed systems
-
-{{% note %}}
-- Mongo and Firebase give small free allowance on cloud - get a database without running a server!
-{{% /note %}}
 
 ---
 
