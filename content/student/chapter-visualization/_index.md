@@ -138,22 +138,33 @@ author = "Anca Doloc-Mihu"
     
 ---
 
-### Requirement engineering
+### New Visualizations inspired from Data Science 
 
-{{< figure src="/dsacapstone-resources/images/requirements/reqengineering.png" width=700 >}}
+* Interactive visualizations that one can build and manipulate within the browser
+
+* Build and manipulate via code 
+
+* Good quality images
+
+* Easy to share with collaborators
+
+* Re-usable
+
+* Scalable
+
+*and more
+
+=====>  **Notebooks**
 
 ---
 
-### Use-case Diagram
+### Notebooks
 
-{{< figure src="/dsacapstone-resources/images/requirements/usecase.png" width=700 >}}
+1. Jypyter
+2. Observable
 
----
+Open my Jupyter notebook [Visualization practice](https://colab.research.google.com/drive/1k0Z5DFnUjty-l_MVkG-7xDyajBPVbjgT?usp=sharing)
 
-### From a “use case” to “user stories”
 
-{{% fragment %}} <p align='left'> * Use case diagram shows <b>all things an actor can do </b> </p> {{% /fragment %}}
-
-{{% fragment %}} <p align='left'> * Can be broken down to individual <b> user stories</b> </p> {{% /fragment %}}
     
    
