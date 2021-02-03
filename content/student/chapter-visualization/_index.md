@@ -112,25 +112,22 @@ author = "Anca Doloc-Mihu"
 
 ### Types of visualizations 
 
-{{% fragment %}} {{< figure src="/dsacapstone-resources/images/visualization/vizTypes.png" width=500 >}} 
+{{% fragment %}} {{< figure src="/dsacapstone-resources/images/visualization/vizTypes.png" >}} 
 {{% /fragment %}}
 
 ---
 
-### Problems with user requirements
+{{< slide class="side-by-side" >}}
 
-*Can you think of any issues?*
+### Types of visualizations 
 
-{{% fragment %}} <p align='left'> * Lack of clarity - ambiguous language </p> {{% /fragment %}}
+{{% fragment %}} {{< figure src="/dsacapstone-resources/images/visualization/histogramEX.png" width=300 >}} {{< figure src="/dsacapstone-resources/images/visualization/MapEX.png" width=300 >}} 
+{{% /fragment %}}
 
-{{% fragment %}} <p align='left'> * Confusion - design information are not distinguished between functional and non-functional requirements  </p> {{% /fragment %}}
-    
-{{% fragment %}} <p align='left'> * Several requirements are defined as a single one </p> {{% /fragment %}}
-    
-{{% fragment %}} <p align='left'> * Incompleteness – requirements may be missing </p> {{% /fragment %}}
 
-{{% fragment %}} <p align='left'> * Inconsistency – requirements may contradict themselves </p> {{% /fragment %}}
- 
+{{% fragment %}} {{< figure src="/dsacapstone-resources/images/visualization/BarSDEX.png" width=300 >}} {{< figure src="/dsacapstone-resources/images/visualization/clusterEX.png" width=300 >}} 
+{{% /fragment %}}
+
 ---
 
 ### How to test non-functional requirements
