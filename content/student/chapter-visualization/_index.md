@@ -41,11 +41,12 @@ author = "Anca Doloc-Mihu"
 
 ### Why is Visualization so important?
 
-{{% fragment %}} **At their best, graphics are instruments for reasoning about quantitative information. Often the most effective way to describe, explore, and summarize a set of numbers is to look at pictures of those numbers.** by Edward R. Tufte, Ph.D., Professor Emeritus, Yale University, Author of [The Visual Display of Quantitative Information](https://www.edwardtufte.com/tufte/books_vdqi) {{% /fragment %}}
+{{% fragment %}} **At their best, graphics are instruments for reasoning about quantitative information. Often the most effective way to describe, explore, and summarize a set of numbers is to look at pictures of those numbers.** [The Visual Display of Quantitative Information](https://www.edwardtufte.com/tufte/books_vdqi) by Edward R. Tufte, Ph.D., Professor Emeritus, Yale University {{% /fragment %}}
+
 
 {{% fragment %}} **A picture is worth a thousand words** is an English language adage meaning that complex and sometimes multiple ideas can be conveyed by a single still image, which conveys its meaning or essence more effectively than a mere verbal description. [Wikipedia](https://en.wikipedia.org/wiki/A_picture_is_worth_a_thousand_words){{% /fragment %}}
 
-{{% fragment %}} {{< figure src="/dsacapstone-resources/images/visualization/NASA-CO2comaprison.jpg" height=250 >}} 
+{{% fragment %}} {{< figure src="/dsacapstone-resources/images/visualization/NASA-CO2comaprison.jpg" height=300 >}} 
 [NASA - Comparisons of Observed CO2 and Emission Changes](https://svs.gsfc.nasa.gov/13647#29873){{% /fragment %}}
 
 ---
