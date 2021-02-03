@@ -17,8 +17,8 @@ author = "Anca Doloc-Mihu"
  
 {{% fragment %}} <p align='left'> * Examples from history include cave paintings, Egyptian hieroglyphs, Greek geometry, and Leonardo da Vinci's revolutionary methods of technical drawing for engineering and scientific purposes. </p> {{% /fragment %}}
 
-{{% fragment %}} < img src="/dsacapstone-resources/images/visualization/coliboaia-cave.jpg" height=200 > < img src="/dsacapstone-resources/images/visualization/egypt-art.jpg" height=200 > < img src="/dsacapstone-resources/images/visualization/greekgeom.jpg" height=200 > < img src="/dsacapstone-resources/images/visualization/da_vinci.jpg" width=200 >
- {{% /fragment %}}
+< img src="/dsacapstone-resources/images/visualization/coliboaia-cave.jpg" height=200 > < img src="/dsacapstone-resources/images/visualization/egypt-art.jpg" height=200 > < img src="/dsacapstone-resources/images/visualization/greekgeom.jpg" height=200 > < img src="/dsacapstone-resources/images/visualization/da_vinci.jpg" width=200 >
+
  
 ---
 
