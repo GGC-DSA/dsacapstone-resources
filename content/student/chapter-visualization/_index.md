@@ -130,11 +130,11 @@ author = "Anca Doloc-Mihu"
 
 ---
 
-### How to test non-functional requirements
+### Shaffer 4 C’s of Data Visualization
 
-**It is important to be able to test/verify/check non-functional requirements**
 
-{{% fragment %}} {{< figure src="/dsacapstone-resources/images/requirements/nonfctreqtest.png" width=500 >}} {{% /fragment %}}
+{{% fragment %}} {{< figure src="/dsacapstone-resources/images/visualization/fourCViz.png" width=600 >}} 
+{{% /fragment %}}
     
 ---
 
