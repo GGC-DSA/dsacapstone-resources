@@ -53,6 +53,18 @@ author = "Anca Doloc-Mihu"
 
 ---
 
+### Why is Visualization so important?
+
+**Good data visualization COMMUNICATES your idea quickly to everyone**
+
+Example: 
+{{% fragment %}} - To depict how waves of immigrants shaped the United States, a team of designers looked to nature as a model.
+{{< vimeo 276140430" width="640" height="360" >}}
+[A New Way of Seeing 200 Years of American Immigration ](https://www.bloomberg.com/news/articles/2018-12-17/visualizing-u-s-immigration-history-as-tree-rings?fbclid=IwAR1T8NN4DVBC-yTI1kObNkmUc21Nfd-wyk6lCF7XQ1cGAOHkv3uM1hirwpI)
+{{% /fragment %}}
+
+---
+
 ### Requirements help reduce errors
 
 **A careful requirements process doesn’t mean there will be no changes later**
