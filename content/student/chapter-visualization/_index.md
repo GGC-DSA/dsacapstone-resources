@@ -74,22 +74,15 @@ author = "Anca Doloc-Mihu"
 
 ---
 
-### Requirements help reduce errors
+### Visualization Best Practices
 
-**A careful requirements process doesn’t mean there will be no changes later**
-
-{{% fragment %}} Average project experiences about 25% changes in the requirements 
-{{% /fragment %}}
-
-{{% fragment %}} This accounts for 70-80% if the rework of the project 
-[Code Complete, p40](https://learning.oreilly.com/library/view/code-complete-second/0735619670/)
-{{% /fragment %}}
-
-{{% fragment %}} Important to plan for requirements changes 
-{{% /fragment %}}
-
-{{% fragment %}} <p align='left'> Example: the case of critical applications </p>
-{{% /fragment %}}
+--- | --- 
+As simple as possible | Stands on its own
+Minimize ink | Label clearly
+Same font size | Significant figures
+Substance over splash | Avoid bias
+Leverage Gestalt Laws of grouping | Highlight key data 
+Use right graph for data | 
 
 ---
 
