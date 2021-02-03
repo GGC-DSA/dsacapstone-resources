@@ -17,7 +17,7 @@ author = "Anca Doloc-Mihu"
  
 {{% fragment %}} <p align='left'> * Examples from history include cave paintings, Egyptian hieroglyphs, Greek geometry, and Leonardo da Vinci's revolutionary methods of technical drawing for engineering and scientific purposes. </p> {{% /fragment %}}
 
-<img src="/dsacapstone-resources/images/visualization/coliboaia-cave.jpg" height=200> < img src="/dsacapstone-resources/images/visualization/egypt-art.jpg" height=200 > < img src="/dsacapstone-resources/images/visualization/greekgeom.jpg" height=200 > < img src="/dsacapstone-resources/images/visualization/da_vinci.jpg" width=200 >
+<img src="/dsacapstone-resources/images/visualization/coliboaia-cave.jpg" height=200> <img src="/dsacapstone-resources/images/visualization/egypt-art.jpg" height=200> <img src="/dsacapstone-resources/images/visualization/greekgeom.jpg" height=200> <img src="/dsacapstone-resources/images/visualization/da_vinci.jpg" width=200>
 
  
 ---
@@ -56,11 +56,21 @@ author = "Anca Doloc-Mihu"
 
 **Good data visualization COMMUNICATES your idea quickly to everyone**
  
-{{% fragment %}} Example: To depict how waves of immigrants shaped the United States, a team of designers looked to nature as a model.
+{{% fragment %}} Example 1: To depict how waves of immigrants shaped the United States, a team of designers looked to nature as a model.
 <div style = "height:300px" > 
  {{< vimeo 276140430 >}}
  </div>
 [Histography - where a dot is an information event in history from Wikipedia](http://histography.io/)
+{{% /fragment %}}
+
+---
+
+### Why is Visualization so important?
+
+**Good data visualization COMMUNICATES your idea quickly to everyone**
+ 
+{{% fragment %}} Example 2: To depictan information event in history from Wikipedia.
+[Histography](http://histography.io/)
 {{% /fragment %}}
 
 ---
