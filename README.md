@@ -1,4 +1,4 @@
-# Intermediate Agile Software Development Textbook Resources
+# Data Science and Analytics Projects Textbook Resources
 
 This textbook is intended for an intermediate-level software
 development course at the undergraduate level that teaches software
