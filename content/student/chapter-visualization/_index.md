@@ -76,13 +76,17 @@ author = "Anca Doloc-Mihu"
 
 ### Visualization Best Practices
 
---- | --- 
-As simple as possible | Stands on its own
-Minimize ink | Label clearly
-Same font size | Significant figures
-Substance over splash | Avoid bias
-Leverage Gestalt Laws of grouping | Highlight key data 
-Use right graph for data | 
+{{% fragment %}} * As simple as possible {{% /fragment %}} {{% fragment %}} * Stands on its own {{% /fragment %}}
+
+{{% fragment %}} * Minimize ink {{% /fragment %}} {{% fragment %}} * Label clearly {{% /fragment %}}
+
+{{% fragment %}} * Same font size {{% /fragment %}} {{% fragment %}} * Significant figures {{% /fragment %}}
+
+{{% fragment %}} * Substance over splash {{% /fragment %}} {{% fragment %}} * Avoid bias {{% /fragment %}}
+
+{{% fragment %}} * Leverage Gestalt Laws of grouping {{% /fragment %}} {{% fragment %}} * Highlight key data {{% /fragment %}}
+
+{{% fragment %}} * Use right graph for data {{% /fragment %}}
 
 ---
 
