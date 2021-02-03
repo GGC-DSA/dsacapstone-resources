@@ -57,10 +57,9 @@ author = "Anca Doloc-Mihu"
 **Good data visualization COMMUNICATES your idea quickly to everyone**
  
 {{% fragment %}} Example 1: To depict how waves of immigrants shaped the United States, a team of designers looked to nature as a model.
-<div style = "height:300px" > 
+<div style = "height:250px" > 
  {{< vimeo 276140430 >}}
  </div>
-[Histography - where a dot is an information event in history from Wikipedia](http://histography.io/)
 {{% /fragment %}}
 
 ---
@@ -69,7 +68,7 @@ author = "Anca Doloc-Mihu"
 
 **Good data visualization COMMUNICATES your idea quickly to everyone**
  
-{{% fragment %}} Example 2: To depictan information event in history from Wikipedia.
+{{% fragment %}} Example 2: To depict an information event in human history from Wikipedia.
 [Histography](http://histography.io/)
 {{% /fragment %}}
 
