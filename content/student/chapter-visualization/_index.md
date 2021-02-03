@@ -58,7 +58,7 @@ author = "Anca Doloc-Mihu"
 **Good data visualization COMMUNICATES your idea quickly to everyone**
  
 {{% fragment %}} Example: To depict how waves of immigrants shaped the United States, a team of designers looked to nature as a model.
-{{< vimeo 276140430 width=300 >}}
+{{< vimeo 276140430 height=300 >}}
 [A New Way of Seeing 200 Years of American Immigration ](https://www.bloomberg.com/news/articles/2018-12-17/visualizing-u-s-immigration-history-as-tree-rings)
 {{% /fragment %}}
 
