@@ -100,21 +100,14 @@ author = "Anca Doloc-Mihu"
 
 ---
 
-### Different levels of abstraction
+### Emphasis Guidelines for Dashboards
 
-**Abstract level: User requirements**
-
-{{% fragment %}} <p align='left'> * Usually the first attempt for the description of the requirements <br>
-* Includes services and constraints of the system <br>
-* Given in natural language or diagrams <br>
-* Readable by everybody, i.e. understandable by the user <br>
-* Serve business objectives <br>
-</p> {{% /fragment %}}
-
-{{% fragment %}} <p align='left'> <em>Example of User requirement:</em> <br>
-As a user who found a new job announcement, I want to add a new position to the website so s/he can start working on doing the initial research and apply to it.</p>
+{{% fragment %}} {{< figure src="/dsacapstone-resources/images/visualization/importance-dasboard.png" width=500 >}} 
 {{% /fragment %}}
  
+{{% fragment %}} Dominance of the neutral quadrants may change based on content. [F-Shaped Pattern of Reading on the Web](http://www.useit.com/alertbox/reading_pattern.html)
+{{% /fragment %}}
+
 ---
 
 ### Different levels of abstraction
