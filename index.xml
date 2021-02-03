@@ -13,8 +13,9 @@
       <pubDate>Thu, 19 Oct 2017 15:26:15 +0000</pubDate>
       
       <guid>https://ggc-dsa.github.io/dsacapstone-resources/about/</guid>
-      <description>This site contains a collection of lectures, assignments, and instructor materials for teaching software engineering or development, at an intermediate level. It is assumed that students already know basic software engineering terms and skills.
-Materials are used for the ITEC 3870 Software Development II course taught at Georgia Gwinnett College . They were developed by Cengiz Gunay and Anca Doloc-Mihu , supported by an Affordable Learning Georgia grant in 2019-2020.</description>
+      <description>This site contains a collection of lectures, assignments, and instructor materials for teaching data science and analytics projects. It is assumed that students already know basic software engineering terms and skills.
+Materials are used for the ITEC 4230 Data Science and Analytics Projects taught at Georgia Gwinnett College . They were developed by Anca Doloc-Mihu .
+Some materials are courtesy of Joan Smith, Eugene Agichstein, and the Internets. Slides are offered with the license: CC BY-SA 4.</description>
     </item>
     
   </channel>
