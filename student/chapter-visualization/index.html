@@ -258,7 +258,7 @@
 <span class='fragment '
   >
    <figure>
-    <img src="/dsacapstone-resources/images/visualization/importance-dasboard.png" width="500"/> 
+    <img src="/dsacapstone-resources/images/visualization/importance-dashboard.png" width="500"/> 
 </figure>
 
 </span>
@@ -270,24 +270,14 @@
 
 </span>
 </section><section>
-<h3 id="different-levels-of-abstraction">Different levels of abstraction</h3>
-<p><strong>Not abstract level: System requirements</strong></p>
+<h3 id="types-of-visualizations">Types of visualizations</h3>
 
 
 <span class='fragment '
   >
-   <p align='left'> * Includes services and constraints of the system in detail <br>
-* Useful for the design and development <br>
-* Precise and cover all cases <br>
-* Structured presentation <br>
-</p> 
-</span>
-
-
-<span class='fragment '
-  >
-   <p align='left'> <em>Example of System requirement:</em> <br>
-A registered user on the academic jobs website should be able to add a new position listing with the name of the school and academic unit, date of posting, date of expiry, application deadline, and contact and application details. The interaction fails if: the position is already listed, the application deadline is in the past, position announcement is expired, or the contact information is missing. If fails, point mistakes to user and ask the user to fix and resubmit. </p>
+   <figure>
+    <img src="/dsacapstone-resources/images/visualization/vizTypes.png" width="500"/> 
+</figure>
 
 </span>
 </section><section>
@@ -324,145 +314,6 @@ A registered user on the academic jobs website should be able to add a new posit
    <p align='left'> * Inconsistency – requirements may contradict themselves </p> 
 </span>
 </section><section>
-<h3 id="guideline-to-minimize-issues-with-user-requirements">Guideline to minimize issues with user requirements</h3>
-
-
-<span class='fragment '
-  >
-    <p align='left'> * Separate functional and non-functional requirements </p> 
-</span>
-
-
-<span class='fragment '
-  >
-    <p align='left'> * Requirements must be clearly identified by a number </p> 
-</span>
-
-
-<span class='fragment '
-  >
-    <p align='left'> * Include a rationale for each requirement – this helps clarify reasoning behind the requirements and may be useful for evaluating potential changes in the requirements</p> 
-</span>
-
-
-<span class='fragment '
-  >
-    <p align='left'> * Team should decide to use a standard form/template </p> 
-</span>
-
-
-<span class='fragment '
-  >
-    <p align='left'> * Have a clear way to establish and distinguish requirements priorities </p> 
-</span>
-
-
-<span class='fragment '
-  >
-    <p align='left'> * Write test cases; requirements must be testable </p> 
-</span>
-
-
-<span class='fragment '
-  >
-    <p align='left'> * Deliverables </p> 
-</span>
-</section><section>
-<h3 id="system-requirements">System requirements</h3>
-
-
-<span class='fragment '
-  >
-    <p align='left'> * Elaborate the user requirements to get a precise, detailed and complete version of them </p> 
-</span>
-
-
-<span class='fragment '
-  >
-    <p align='left'> * Used by designers and developers </p> 
-</span>
-
-
-<span class='fragment '
-  >
-    <p align='left'> * Write system requirements using natural language </p> 
-</span>
-
-
-<span class='fragment '
-  >
-    <p align='left'> * Forms/templates and logic are used to bring some rigor, but make sure everyone understands them </p> 
-</span>
-
-
-<span class='fragment '
-  >
-    <p align='left'> <em> Example: If sales for current month are below target sales, then report is to be printed unless difference between target sales and actual sales is less than half of difference between target sales and actual sales in previous month, or if difference between target sales and actual sales for the current month is less than 5%. </em></p> 
-
-</span>
-
-
-<span class='fragment '
-  >
-  <p>Problems: * Difficult to read * Ambiguity: 5% of what? * Incomplete: what if sales are above target sales?</p>
-
-</span>
-</section><section>
-<h3 id="types-of-requirements">Types of requirements</h3>
-
-
-<span class='fragment '
-  >
-   <p align='left'> <b> Functional requirements </b><br>
-* Services the system should provide <br>
-* What the system should do or not do in reaction to particular situations <br></p>
-
-</span>
-
-
-<span class='fragment '
-  >
-   <p align='left'> <b> Non-functional requirements  </b> - might be more critical than functional ones <br>
-* Constraints on the services or functions offered by the system <br>
-* Examples: Timing constraints (e.g., one semester), constraints on the development process (CASE, language, development method…), standards etc<br></p>
-
-</span>
-
-
-<span class='fragment '
-  >
-   <p align='left'> <b>  Domain requirements </b><br>
-* From the application domain of the system <br>
-* May be functional or non-functional <br>
-Examples: Medicine, library, physics, chemistry <br></p>
-
-</span>
-
-
-<span class='fragment '
-  >
-  <p>Note: You can have all of user/system functional/nonfunctional requirements.</p>
-
-</span>
-</section><section>
-<h3 id="non-functional-requirements-categories">Non-functional requirements categories</h3>
-<p align='left'> <b> Product requirements</b> - related to product behavior <br>
-Example: Timing, performance, memory, reliability, portability, usability
-<p><b>Organizational requirements</b> related to policies and procedures in the customer’s and developer’s organizations<br>
-Example: Process requirements, implementation requirements, delivery requirements</p>
-<p><b>External requirements</b> related to factors externals to the system and the development process<br>
-Example: Interoperability, legislation, ethics</p>
-</p>
-
-
-<span class='fragment '
-  >
-   <figure>
-    <img src="/dsacapstone-resources/images/requirements/nonfctrequirements.png" width="400"/> 
-</figure>
-
-</span>
-</section><section>
 <h3 id="how-to-test-non-functional-requirements">How to test non-functional requirements</h3>
 <p><strong>It is important to be able to test/verify/check non-functional requirements</strong></p>
 
@@ -478,92 +329,6 @@ Example: Interoperability, legislation, ethics</p>
 <h3 id="requirement-engineering">Requirement engineering</h3>
 <figure>
     <img src="/dsacapstone-resources/images/requirements/reqengineering.png" width="700"/> 
-</figure>
-
-</section><section>
-<h3 id="feasibility-study">Feasibility study</h3>
-<ul>
-<li>
-<p>It is done at first to decide whether or not the project is worthwhile</p>
-</li>
-<li>
-<p>Look at different perspectives: market analysis, financial, schedule, technical, resource, legal…</p>
-</li>
-<li>
-<p>Target is to make you aware of the risks</p>
-</li>
-</ul>
-<p>How to do the study</p>
-<ul>
-<li>
-<p>Consult information sources: managers, software engineers, end users…</p>
-</li>
-<li>
-<p>Collect information from interviews, surveys, questionnaires…</p>
-</li>
-</ul>
-<p>Should be short (2-3 weeks)</p>
-</section><section>
-<h3 id="feasibility-study-1">Feasibility study</h3>
-<ul>
-<li>
-<p>What if the system wasn’t implemented?</p>
-</li>
-<li>
-<p>What are current process problems?</p>
-</li>
-<li>
-<p>Do technical resources exist?</p>
-</li>
-<li>
-<p>What is the risk associated with the technology?</p>
-</li>
-<li>
-<p>Is new technology needed? What skills?</p>
-</li>
-<li>
-<p>How will the proposed project help?</p>
-</li>
-<li>
-<p>How does the proposed project contribute to the overall objectives of the organization?</p>
-</li>
-<li>
-<p>Have the benefits identified with the system being identified clearly?</p>
-</li>
-</ul>
-</section><section>
-<h3 id="feasibility-study-2">Feasibility study</h3>
-<ul>
-<li>
-<p>What will be the integration problems?</p>
-</li>
-<li>
-<p>What facilities must be supported by the system?</p>
-</li>
-<li>
-<p>What is the risk associated with cost and schedule?</p>
-</li>
-<li>
-<p>What are the potential disadvantages/advantages?</p>
-</li>
-<li>
-<p>Are there legal issues?</p>
-</li>
-<li>
-<p>Are there issues linked with the fact that this is an offshore project?</p>
-</li>
-</ul>
-<p>and more</p>
-</section><section>
-<h3 id="requirements-as-user-stories">Requirements as user stories</h3>
-<figure>
-    <img src="/dsacapstone-resources/images/comics/requirementsuserstory.jpg" width="700"/> 
-</figure>
-
-</section><section>
-<h3 id="from-requirements-to-user-stories">From requirements to user stories</h3>
-<figure>
-    <img src="/dsacapstone-resources/images/requirements/reqtousecase.png" width="700"/> 
 </figure>
 
 </section><section>
