@@ -25,7 +25,7 @@ weight = 04
 {{% fragment %}} Using gist has all the benefits of utilizing a GitHub repository, and also provides a more lightweight way of utilizing GitHub’s versioning features. 
 {{% /fragment %}}
 
-{{< figure src="/dsacapstone-resources/images/version-control/gistEX.png" width=250 >}}
+{{< figure src="/dsacapstone-resources/images/version-control/gistEX.png" width=350 >}}
 
 ---
 
@@ -39,6 +39,14 @@ The main differences between github and gists are in terms of
 
 {{% fragment %}} GitHub provides a platform to share an entire project as a repo among a team (private repo) or to the whole world (public repo). It's more for big projects like a dynamic website or mobile applications. 
 {{% /fragment %}}
+
+---
+
+#### What is the difference between Github and Gist?
+
+The main differences between github and gists are in terms of 
+
+* type of project
 
 * number of features: 
 {{% fragment %}} Github is designed many features and flexibility in mind, which is a good fit for both small and very big projects, while Gists are only a good fit for very small projects. 
