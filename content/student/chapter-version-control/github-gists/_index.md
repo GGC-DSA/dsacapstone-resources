@@ -49,12 +49,11 @@ The main differences between github and gists are in terms of
 * type of project
 
 * number of features: 
-{{% fragment %}} Github is designed many features and flexibility in mind, which is a good fit for both small and very big projects, while Gists are only a good fit for very small projects. 
-{{% /fragment %}}
+Github is designed many features and flexibility in mind, which is a good fit for both small and very big projects, while Gists are only a good fit for very small projects. 
+
 
 * user interface:
-{{% fragment %}} Gists do support multi-files, but the interface is very simple, and they're limited in features, so they don't even have a file browser, nor issues, pull requests or wiki, unlike Github. 
-{{% /fragment %}}
+Gists do support multi-files, but the interface is very simple, and they're limited in features, so they don't even have a file browser, nor issues, pull requests or wiki, unlike Github. 
 
 ---
 
