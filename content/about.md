@@ -7,7 +7,7 @@ title: About this Site
 description: About this Site
 ---
 
-This site contains a collection of lectures, assignments, and instructor materials for teaching data science and analytics projects. It is assumed that students already know basic software engineering terms and skills. 
+This site contains a collection of lectures, assignments, and instructor materials for teaching data science and analytics projects. It is assumed that students already know basic  terms and skills. 
 
 Materials are used for the [ITEC 4230 Data Science and Analytics Projects](https://ggc-dsa.github.io/dsacapstone-resources/) taught at [Georgia Gwinnett College](https://ggc.edu). They were developed by [Anca Doloc-Mihu](https://www.ggc.edu/about-ggc/directory/anca-doloc-mihu).
 
