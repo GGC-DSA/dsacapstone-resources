@@ -1,104 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://ggc-dsa.github.io/dsacapstone-resources/student/chapter-project-design/requirements-phase/</loc>
     <lastmod>2020-12-20T15:26:15+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ggc-dsa.github.io/dsacapstone-resources/student/chapter-intro/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ggc-dsa.github.io/dsacapstone-resources/student/chapter-project-design/client-checkpoint-phase/</loc>
     <lastmod>2020-12-20T15:26:15+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ggc-dsa.github.io/dsacapstone-resources/student/</loc>
     <lastmod>2020-12-20T15:26:15+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ggc-dsa.github.io/dsacapstone-resources/student/chapter-agiledevelopment/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ggc-dsa.github.io/dsacapstone-resources/student/chapter-agiledevelopment/chapter-principles/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ggc-dsa.github.io/dsacapstone-resources/student/chapter-intro/chapter-tech/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ggc-dsa.github.io/dsacapstone-resources/student/chapter-requirements/chapter-userstories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ggc-dsa.github.io/dsacapstone-resources/student/chapter-project-design/last-stretch-phase/</loc>
     <lastmod>2020-12-20T15:26:15+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://ggc-dsa.github.io/dsacapstone-resources/student/chapter-bigdata/</loc>
+  </url><url>
     <loc>https://ggc-dsa.github.io/dsacapstone-resources/student/chapter-version-control/github-social-computing/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ggc-dsa.github.io/dsacapstone-resources/student/chapter-requirements/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ggc-dsa.github.io/dsacapstone-resources/student/chapter-agiledevelopment/chapter-scrum/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ggc-dsa.github.io/dsacapstone-resources/student/chapter-requirements/chapter-teamwork/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ggc-dsa.github.io/dsacapstone-resources/student/chapter-version-control/github-gists/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ggc-dsa.github.io/dsacapstone-resources/student/chapter-agiledevelopment/chapter-kanban/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ggc-dsa.github.io/dsacapstone-resources/student/chapter-visualization/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ggc-dsa.github.io/dsacapstone-resources/student/chapter-version-control/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ggc-dsa.github.io/dsacapstone-resources/student/chapter-jira/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ggc-dsa.github.io/dsacapstone-resources/student/chapter-project-design/</loc>
     <lastmod>2020-12-20T15:26:15+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ggc-dsa.github.io/dsacapstone-resources/about/</loc>
     <lastmod>2019-10-26T15:26:15+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ggc-dsa.github.io/dsacapstone-resources/</loc>
     <lastmod>2019-10-26T15:26:15+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ggc-dsa.github.io/dsacapstone-resources/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ggc-dsa.github.io/dsacapstone-resources/tags/</loc>
   </url>
-  
 </urlset>
