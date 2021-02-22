@@ -5,69 +5,86 @@ weight = 3
 
 +++
 
-{{% reveal-titlepage figure="/dsacapstone-resources/images/scrum/scrumrugby.jpg" %}}
+{{% reveal-titlepage figure="/dsacapstone-resources/images/bigdata/bigdata.jpg" %}}
 
 ---
 
-## Big Data
+## Performance and scalability
 
-{{% fragment %}} <p align='left'> * Originally proposed by Jeff Sutherland in 90s, then improved by Schwaber and Beedle </p> {{% /fragment %}}
+{{% fragment %}} How much data do you work with? {{% /fragment %}}
 
-{{% fragment %}} <p align='left'> * In 1993, J. Sutherland borrowed term ‘scrum’ from Takeuchi and Nonaka, “The New Product Development Game”, Havard Business  Review, 1986 </p> {{% /fragment %}}
+{{% fragment %}} What happens if your data doubles in size tomorrow? {{% /fragment %}}
 
-{{% fragment %}} <p align='left'> * Takeuchi and Nonaka compare high-performing, cross-functional teams to the scrum formation used by Rugby teams. </p> {{% /fragment %}} 
+{{% fragment %}} Is your system scalable? {{% /fragment %}} 
 
-{{< figure src="/dsacapstone-resources/images/scrum/scrumrugby.jpg" width=400 >}}
-
----
-
-### Scrum
-
-{{% fragment %}} <p align='left'> * In rugby scrum is the power struggle between two teams to advance on the field </p> {{% /fragment %}}
-
-{{% fragment %}} <p align='left'> * It requires complete team work, hard work, and strength. That meaning translates to software development </p> {{% /fragment %}}
-
-
-{{< figure src="/dsacapstone-resources/images/scrum/scrumrugby.jpg" width=400 >}}
-
-See original article from [Scrum Alliance](https://www.scrumalliance.org/why-scrum) 
+{{% fragment %}} How performant is your system? {{% /fragment %}} 
 
 ---
 
-### Scrum and Agile
+## How to achieve performance and scalability
 
-{{% fragment %}} Scrum is one of several agile frameworks.{{% /fragment %}}
+{{% fragment %}} <p align='left'> * Storage </p> {{% /fragment %}}
 
-{{% fragment %}} **Scrum is the most popular agile framework.**
+{{% fragment %}} <p align='left'> * Algorithms </p> {{% /fragment %}}
 
-{{< figure src="/dsacapstone-resources/images/agilestatus-methods.png" width="600" >}}
+
+---
+
+### Tools for big data
+
+{{% fragment %}} Tools for working with a distributed file system:{{% /fragment %}}
+
+{{% fragment %}} **Hadoop**
+
+* Apache Hadoop is the most prominent and used tool in big data industry with its enormous capability of large-scale processing data. 
+
+* Open source framework and runs in an existing data center or on a cloud infrastructure. 
+
+* Hadoop consists of four parts: 
+
+-- Hadoop Distributed File System or HDFS, it is a distributed file system compatible with very high scale bandwidth.
+-- MapReduce: A programming model for processing big data.
+-- YARN: It is a platform used for managing and scheduling Hadoop’s resources in Hadoop infrastructure.
+-- Libraries: To help other modules to work with Hadoop.
 {{% /fragment %}}
 
 ---
 
-### Scrum Definition
+### Tools for big data
 
-**Scrum: An [agile] framework within which people can address complex adaptive problems, while productively and creatively delivering products of the highest possible value.**
+{{% fragment %}} **Spark**
 
-{{% fragment %}} Scrum refers to a lightweight framework that is used in every industry to deliver complex, innovative products and services that truly delight customers. It is **simple to understand, but difficult to master**.{{% /fragment %}}
+* Apache Spark Spark can handle both batch data and real-time data. 
 
-{{% fragment %}} Scrum fulfils the vision of the Agile Manifesto by helping individuals and businesses organize their work to 
-* maximize collaboration, 
-* minimize errors, 
-* deliver frequently, and 
-* create multiple opportunities to inspect and adapt.
+* As Spark does in-memory data processing, it processes data much faster than traditional disk processing. 
+
+* Apache Spark is flexible to work with HDFS as well as with other data stores, for example with OpenStack Swift or Apache Cassandra.  
+
+* Spark is an alternative to Hadoop’s MapReduce. Spark can run jobs 100 times faster than Hadoop’s MapReduce. 
 {{% /fragment %}}
- 
-[Scrum Guide, November 2017 version](https://www.scrumalliance.org/about-scrum/definition)
+
+[Top 10 Open Source Big Data Tools in 2020](https://www.whizlabs.com/blog/big-data-tools/)
 
 ---
 
-### How Scrum works
+### Tools for big data
 
-**Scrum works by delivering large projects in small chunks of the product that a team can begin and complete in one, short timeboxed iteration called sprint.**
+Other tools: 
 
-{{% fragment %}} Scrum is also both **iterative** and **incremental**.{{% /fragment %}}
- 
+{{% fragment %}}  **Gluster**
+
+GlusterFS is a scalable network filesystem suitable for data-intensive tasks such as cloud storage and media streaming. 
+
+GlusterFS is free and open source software and can utilize common off-the-shelf hardware
+
+[Gluster](https://docs.gluster.org/en/latest/)
+
+{{% /fragment %}}
+
+{{% fragment %}} **Google Big Table** {{% /fragment %}}
+
+{{% fragment %}} **Google Big Query** {{% /fragment %}}
+
 ---
 
 ### Scrum Framework
