@@ -87,120 +87,13 @@ GlusterFS is free and open source software and can utilize common off-the-shelf 
 
 ---
 
-### Scrum Framework
+### Algorithms for Big Data
 
-**People are the focus of Scrum.**
+Many, in many categories: classification, regression, SVMs, neural networks, etc.
 
-{{% fragment %}} **Scrum Teams** include people with diverse skillsets; each team has all of the capabilities necessary to deliver a piece of functionality from idea to delivery. {{% /fragment %}}
+**How do you run your scripts? On a single machine or on multiple machines?**
 
-{{% fragment %}} **Sprint** is a short (one to four weeks long) timeframe during which the team works on some chunks of the product. 
-{{% /fragment %}}
+**Can you parallelize?**
 
----
 
-### Scrum Team
-
-Scrum Team includes three roles: **Scrum Master, Product Owner, and Development Team**. 
-
-{{% fragment %}} The **Scrum Master** helps the Scrum Team perform at their highest level. They also protect the team from both internal and external distractions. Scrum Masters hold the Scrum Team accountable to their working agreements, Scrum values, and to the Scrum framework itself.
-{{% /fragment %}}
-
-{{% fragment %}} The **Product Owner** defines the what--as in what the product will look like and what features it should contain. Product Owner helps build and clarify the product backlog and ensures that everyone knows the priorities.
-{{% /fragment %}}
-
-{{% fragment %}} The **Development Team** decides how to accomplish the work set forth by the Product Owner. Development Teams are structured and empowered to organize and manage their own work.
-{{% /fragment %}}
- 
----
-
-### Sprint
-
-{{% fragment %}} **Sprint** is a short (one to four weeks long) timeframe during which the team works on some chunks of the product. 
-{{% /fragment %}}
-
-{{% fragment %}} * Each sprint begins with a plan followed by building and then testing the code, and ends with a review of the work completed and an additional review of the way in which the team worked together (retrospectives). 
-{{% /fragment %}}
-
-{{% fragment %}} * During each sprint, the team completes one or more increments of the project. Each completed increment must be fully tested and fully approved by the end of the sprint (potentially deliverable).{{% /fragment %}}
-
- {{< figure src="/dsacapstone-resources/images/scrum/sprint.png" width=500 >}}
- 
- 
----
-
-### Scrum Values
-
-{{% fragment %}} **Commitment**: Scrum teams work together as a unit, members trust each other to follow through on what they say they are going to do. 
-{{% /fragment %}}
-
-{{% fragment %}} **Courage**: Scrum teams must feel safe enough to say no, to ask for help, and to try new things. 
-{{% /fragment %}}
-
-{{% fragment %}} **Focus**: It means that whatever Scrum teams start they finish. 
-{{% /fragment %}}
-
-{{% fragment %}} **Openness**: Scrum teams consistently seek out new ideas and opportunities to learn. 
-{{% /fragment %}}
-
-{{% fragment %}} **Respect**: Scrum team members respect each other’s ideas, give each other permission to have a bad day once in a while, and recognize each other’s accomplishments. They show respect to one another, to the product owner, to stakeholders, and to the ScrumMaster. 
-{{% /fragment %}}
-
----
-
-### Scrum Artifacts
-
-{{% fragment %}} The **Product Backlog** is an ordered list of everything that is known to be needed in a product. 
-{{% /fragment %}}
-
-{{% fragment %}} The **Sprint Backlog** is a list of everything that the team commits to achieve in a given Sprint. Once created, no one can add to the Sprint Backlog except the Development Team. If an item needs to be dropped from the Sprint Backlog, they must negotiate it with the Product Owner. 
-{{% /fragment %}}
-
-{{% fragment %}} At the end of every Sprint, the team must complete a **potentially releasable product increment** meaning that it is done as agreed upon. 
-{{% /fragment %}}
-
----
-
-{{< slide class="side-by-side" >}}
-
-### Tracking Progress
-
-**Burndown Chart** Sprint burndowns are a graphical way of showing how much work is remaining in the sprint, typically in terms of task hours.
-As the work progresses, the amount of work remaining should steadily decrease and should trend toward being complete on the last day of the sprint. 
-
-{{% fragment %}} {{< figure src="/dsacapstone-resources/images/scrum/sprintburndownchart.png" height=270 >}} 
- {{< figure src="/dsacapstone-resources/images/scrum/sprintburndownchartstudents.png" height=270 >}} {{% /fragment %}}
-
----
-
-### Daily Scrum
-
-<div style="width: 50%; margin-left: auto; margin-right: auto;">
-{{< youtube kKIc1NFO-AU >}}
-</div>
-    
----
-
-### Daily Scrum
-
-What do you see in the clip?
-
-{{% fragment %}} * **Scrum Team** 
-Members stand up in circle facing everyone. Also, someone else just "observing". Meeting is less than 15 minutes long. 
-{{% /fragment %}} 
-
-{{% fragment %}} * **Scrum Master** 
-Scrum Master starts the meeting. Makes sure everyone talks in order from left to right. 
-{{% /fragment %}}
-
-{{% fragment %}} * Each member answers to **3 questions** regarding meeting the sprint goal: 
-{{% /fragment %}}
-
-{{% fragment %}}       1. What did I worked on since last meeting? 
-{{% /fragment %}}
-
-{{% fragment %}}       2. What I am working on now? 
-{{% /fragment %}}
-
-{{% fragment %}}       3. Do I see any impediments? 
-{{% /fragment %}}
 
